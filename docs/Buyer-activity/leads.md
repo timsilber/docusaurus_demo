@@ -14,7 +14,7 @@ To review all of the information that a buyer submitted via your lead form, sele
 The my.G2 Lead Form tab is where you can adjust the default G2 lead form to potentially collect more information from leads, add tracking information, or provide needed information to third-party systems.
 
 :::(Info)
-After editing your G2 lead form, ensure that you [set up a webhook](/g2/docs/g2-leads-webhooks) if you want to send your G2 leads to a third-party system such as Salesforce. A webhook makes it easier to integrate G2 leads into your sales and marketing teams’ existing workflows.
+After editing your G2 lead form, ensure that you [set up a webhook](http://documentation.g2.com/g2/docs/g2-leads-webhooks) if you want to send your G2 leads to a third-party system such as Salesforce. A webhook makes it easier to integrate G2 leads into your sales and marketing teams’ existing workflows.
 :::
 
 ### Standard lead form fields
@@ -128,7 +128,7 @@ G2 has tested and supplied instructions specifically for the following third-par
 * [Salesforce CRM webhook](https://documentation.g2.com//g2/docs/salesforce-crm-webhook)
 * [HubSpot webhook](https://documentation.g2.com//g2/docs/hubspot-webhook)
 
-You can also [set up leads for Marketo](/g2/docs/g2-marketo-implementation#5-optional-enable-leads-data) via G2's integration. You do not have to enable Buyer Intent for Marketo if you prefer to only receive leads data.
+You can also [set up leads for Marketo](http://documentation.g2.com/g2/docs/g2-marketo-implementation#5-optional-enable-leads-data) via G2's integration. You do not have to enable Buyer Intent for Marketo if you prefer to only receive leads data.
 
 To set up webhooks for other third-party systems, review the system’s own documentation and use G2’s documentation as an example of how to complete the process.
 

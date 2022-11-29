@@ -44,7 +44,7 @@ After submitting a response, a chat icon appears next to **Read review** for tha
 ![Reviews are marked as read](https://github.com/g2-documentation/images/blob/main/reviewactivity-readreview.jpg?raw=true){height="" width=""}
 
 ## Downloading review data
-The date range and other [filters](/g2/docs/review-activity#filters) that you select for this page change the reviews that are included in the downloaded CSV.
+The date range and other [filters](http://documentation.g2.com/g2/docs/review-activity#filters) that you select for this page change the reviews that are included in the downloaded CSV.
 
 Select **Download CSV** to download your product's G2 review data. The CSV contains the same information as the table in the Review Activity page.
 
