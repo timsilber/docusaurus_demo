@@ -60,7 +60,7 @@ If you copy and paste field names from a third-party system, the auto-populated 
 The lead form on your G2 product profile page should update immediately with your changes.
 
 #### Examples of custom lead form fields
-The custom fields that you add to the G2 lead form could depend on the information that your organization wants to collect and track, or information that might need to be supplied to a third-party system if you want to [set up a lead webhook](/g2/docs/g2-leads-webhooks).
+The custom fields that you add to the G2 lead form could depend on the information that your organization wants to collect and track, or information that might need to be supplied to a third-party system if you want to [set up a lead webhook](http://documentation.g2.com/g2/docs/g2-leads-webhooks).
 
 A basic example of a custom field could be adding a question to the lead form about the buyer’s specific job title. You could use the Field Type **Text Field** to allow the buyer to submit any answer they want, which eliminates the need for you to supply a list of all relevant job titles.
 
@@ -125,7 +125,7 @@ The process to set up webhooks for G2 leads is specific to the third-party syste
 
 G2 has tested and supplied instructions specifically for the following third-party systems:
 
-* [Salesforce CRM webhook](https://documentation.g2.com//g2/docs/salesforce-crm-webhook)
+* [Salesforce CRM webhook](https://documentation.g2.com/g2/docs/salesforce-crm-webhook)
 * [HubSpot webhook](https://documentation.g2.com//g2/docs/hubspot-webhook)
 
 You can also [set up leads for Marketo](http://documentation.g2.com/g2/docs/g2-marketo-implementation#5-optional-enable-leads-data) via G2's integration. You do not have to enable Buyer Intent for Marketo if you prefer to only receive leads data.
