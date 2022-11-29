@@ -2,8 +2,8 @@
   "docusaurus-lunr-search": {
     "default": {
       "fileNames": {
-        "searchDoc": "search-doc-1669690397934.json",
-        "lunrIndex": "lunr-index-1669690397934.json"
+        "searchDoc": "search-doc-1669690581259.json",
+        "lunrIndex": "lunr-index-1669690581259.json"
       }
     }
   },
@@ -29,28 +29,28 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Buyer activity/buyer-intent",
-              "path": "/docs/Buyer activity/buyer-intent",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "Buyer activity/leads",
-              "path": "/docs/Buyer activity/leads",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "Buyer activity/track_your_prospects",
-              "path": "/docs/Buyer activity/track_your_prospects",
-              "sidebar": "tutorialSidebar"
-            },
-            {
               "id": "buyer_engagement_score",
               "path": "/docs/buyer_engagement_score",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "G2 API",
-              "path": "/docs/G2 API",
+              "id": "Buyer-activity/buyer-intent",
+              "path": "/docs/Buyer-activity/buyer-intent",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Buyer-activity/leads",
+              "path": "/docs/Buyer-activity/leads",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Buyer-activity/track_your_prospects",
+              "path": "/docs/Buyer-activity/track_your_prospects",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "G2-API",
+              "path": "/docs/G2-API",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -64,33 +64,33 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Marketing content/crowd_quotes",
-              "path": "/docs/Marketing content/crowd_quotes",
+              "id": "Marketing-content/crowd_quotes",
+              "path": "/docs/Marketing-content/crowd_quotes",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Marketing content/documents",
-              "path": "/docs/Marketing content/documents",
+              "id": "Marketing-content/documents",
+              "path": "/docs/Marketing-content/documents",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Marketing content/g2_badges",
-              "path": "/docs/Marketing content/g2_badges",
+              "id": "Marketing-content/g2_badges",
+              "path": "/docs/Marketing-content/g2_badges",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Marketing content/reference_pages",
-              "path": "/docs/Marketing content/reference_pages",
+              "id": "Marketing-content/reference_pages",
+              "path": "/docs/Marketing-content/reference_pages",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Marketing content/report-library",
-              "path": "/docs/Marketing content/report-library",
+              "id": "Marketing-content/report-library",
+              "path": "/docs/Marketing-content/report-library",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Marketing content/widgets",
-              "path": "/docs/Marketing content/widgets",
+              "id": "Marketing-content/widgets",
+              "path": "/docs/Marketing-content/widgets",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -139,8 +139,8 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Product Suites",
-              "path": "/docs/Product Suites",
+              "id": "Product-Suites",
+              "path": "/docs/Product-Suites",
               "sidebar": "tutorialSidebar"
             },
             {

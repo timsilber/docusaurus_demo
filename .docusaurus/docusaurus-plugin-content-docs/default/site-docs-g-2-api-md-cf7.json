@@ -1,0 +1,23 @@
+{
+  "unversionedId": "G2-API",
+  "id": "G2-API",
+  "title": "G2-API",
+  "description": "",
+  "source": "@site/docs/G2-API.md",
+  "sourceDirName": ".",
+  "slug": "/G2-API",
+  "permalink": "/docs/G2-API",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 100,
+  "frontMatter": {
+    "sidebar_label": "G2 API",
+    "sidebar_position": 100
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "about-g2-integrations",
+    "permalink": "/docs/Integrations/about-g2-integrations"
+  }
+}

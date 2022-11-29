@@ -64,75 +64,6 @@
               }
             },
             {
-              "unversionedId": "Buyer activity/buyer-intent",
-              "id": "Buyer activity/buyer-intent",
-              "title": "buyer-intent",
-              "description": "G2 Buyer Intent captures enriched data about buyers researching your product across G2. Buyer Intent signals are triggered by a variety of actions, including interacting with your product profile page, comparing your product to a competitor, or viewing alternatives to a product in a shared G2 product category. This data enables your sales, marketing, and customer success teams to identify where an organization is on their buyer journey.",
-              "source": "@site/docs/Buyer activity/buyer-intent.md",
-              "sourceDirName": "Buyer activity",
-              "slug": "/Buyer activity/buyer-intent",
-              "permalink": "/docs/Buyer activity/buyer-intent",
-              "draft": false,
-              "tags": [],
-              "version": "current",
-              "frontMatter": {},
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Buyer Activity",
-                "permalink": "/docs/category/buyer-activity"
-              },
-              "next": {
-                "title": "leads",
-                "permalink": "/docs/Buyer activity/leads"
-              }
-            },
-            {
-              "unversionedId": "Buyer activity/leads",
-              "id": "Buyer activity/leads",
-              "title": "leads",
-              "description": "G2 leads are generated when buyers access gated content such as videos and downloads on your G2 product profile page, request that your organization contact them, or ask for a custom quote. These experiences require the buyer to submit contact details and other information via your lead form, which means leads are buyers that you know are interested in your product and are willing to be contacted directly by your organization.",
-              "source": "@site/docs/Buyer activity/leads.md",
-              "sourceDirName": "Buyer activity",
-              "slug": "/Buyer activity/leads",
-              "permalink": "/docs/Buyer activity/leads",
-              "draft": false,
-              "tags": [],
-              "version": "current",
-              "frontMatter": {},
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "buyer-intent",
-                "permalink": "/docs/Buyer activity/buyer-intent"
-              },
-              "next": {
-                "title": "track_your_prospects",
-                "permalink": "/docs/Buyer activity/track_your_prospects"
-              }
-            },
-            {
-              "unversionedId": "Buyer activity/track_your_prospects",
-              "id": "Buyer activity/track_your_prospects",
-              "title": "track_your_prospects",
-              "description": "# Track Your Prospects",
-              "source": "@site/docs/Buyer activity/track_your_prospects.md",
-              "sourceDirName": "Buyer activity",
-              "slug": "/Buyer activity/track_your_prospects",
-              "permalink": "/docs/Buyer activity/track_your_prospects",
-              "draft": false,
-              "tags": [],
-              "version": "current",
-              "frontMatter": {},
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "leads",
-                "permalink": "/docs/Buyer activity/leads"
-              },
-              "next": {
-                "title": "Product Profile",
-                "permalink": "/docs/category/product-profile"
-              }
-            },
-            {
               "unversionedId": "buyer_engagement_score",
               "id": "buyer_engagement_score",
               "title": "Buyer Engagement score",
@@ -160,14 +91,83 @@
               }
             },
             {
-              "unversionedId": "G2 API",
-              "id": "G2 API",
-              "title": "G2 API",
+              "unversionedId": "Buyer-activity/buyer-intent",
+              "id": "Buyer-activity/buyer-intent",
+              "title": "buyer-intent",
+              "description": "G2 Buyer Intent captures enriched data about buyers researching your product across G2. Buyer Intent signals are triggered by a variety of actions, including interacting with your product profile page, comparing your product to a competitor, or viewing alternatives to a product in a shared G2 product category. This data enables your sales, marketing, and customer success teams to identify where an organization is on their buyer journey.",
+              "source": "@site/docs/Buyer-activity/buyer-intent.md",
+              "sourceDirName": "Buyer-activity",
+              "slug": "/Buyer-activity/buyer-intent",
+              "permalink": "/docs/Buyer-activity/buyer-intent",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Buyer Activity",
+                "permalink": "/docs/category/buyer-activity"
+              },
+              "next": {
+                "title": "leads",
+                "permalink": "/docs/Buyer-activity/leads"
+              }
+            },
+            {
+              "unversionedId": "Buyer-activity/leads",
+              "id": "Buyer-activity/leads",
+              "title": "leads",
+              "description": "G2 leads are generated when buyers access gated content such as videos and downloads on your G2 product profile page, request that your organization contact them, or ask for a custom quote. These experiences require the buyer to submit contact details and other information via your lead form, which means leads are buyers that you know are interested in your product and are willing to be contacted directly by your organization.",
+              "source": "@site/docs/Buyer-activity/leads.md",
+              "sourceDirName": "Buyer-activity",
+              "slug": "/Buyer-activity/leads",
+              "permalink": "/docs/Buyer-activity/leads",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "buyer-intent",
+                "permalink": "/docs/Buyer-activity/buyer-intent"
+              },
+              "next": {
+                "title": "track_your_prospects",
+                "permalink": "/docs/Buyer-activity/track_your_prospects"
+              }
+            },
+            {
+              "unversionedId": "Buyer-activity/track_your_prospects",
+              "id": "Buyer-activity/track_your_prospects",
+              "title": "track_your_prospects",
+              "description": "# Track Your Prospects",
+              "source": "@site/docs/Buyer-activity/track_your_prospects.md",
+              "sourceDirName": "Buyer-activity",
+              "slug": "/Buyer-activity/track_your_prospects",
+              "permalink": "/docs/Buyer-activity/track_your_prospects",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "leads",
+                "permalink": "/docs/Buyer-activity/leads"
+              },
+              "next": {
+                "title": "Product Profile",
+                "permalink": "/docs/category/product-profile"
+              }
+            },
+            {
+              "unversionedId": "G2-API",
+              "id": "G2-API",
+              "title": "G2-API",
               "description": "",
-              "source": "@site/docs/G2 API.md",
+              "source": "@site/docs/G2-API.md",
               "sourceDirName": ".",
-              "slug": "/G2 API",
-              "permalink": "/docs/G2 API",
+              "slug": "/G2-API",
+              "permalink": "/docs/G2-API",
               "draft": false,
               "tags": [],
               "version": "current",
@@ -226,18 +226,18 @@
               },
               "next": {
                 "title": "G2 API",
-                "permalink": "/docs/G2 API"
+                "permalink": "/docs/G2-API"
               }
             },
             {
-              "unversionedId": "Marketing content/crowd_quotes",
-              "id": "Marketing content/crowd_quotes",
+              "unversionedId": "Marketing-content/crowd_quotes",
+              "id": "Marketing-content/crowd_quotes",
               "title": "crowd_quotes",
               "description": "Crowd Quotes provides a convenient way to supply your sales, marketing, and design teams with snippets of your G2 reviews. Use Crowd Quotes to build trust and improve your marketing campaigns by displaying rich-text reviews from real users of your products.",
-              "source": "@site/docs/Marketing content/crowd_quotes.md",
-              "sourceDirName": "Marketing content",
-              "slug": "/Marketing content/crowd_quotes",
-              "permalink": "/docs/Marketing content/crowd_quotes",
+              "source": "@site/docs/Marketing-content/crowd_quotes.md",
+              "sourceDirName": "Marketing-content",
+              "slug": "/Marketing-content/crowd_quotes",
+              "permalink": "/docs/Marketing-content/crowd_quotes",
               "draft": false,
               "tags": [],
               "version": "current",
@@ -249,18 +249,18 @@
               },
               "next": {
                 "title": "documents",
-                "permalink": "/docs/Marketing content/documents"
+                "permalink": "/docs/Marketing-content/documents"
               }
             },
             {
-              "unversionedId": "Marketing content/documents",
-              "id": "Marketing content/documents",
+              "unversionedId": "Marketing-content/documents",
+              "id": "Marketing-content/documents",
               "title": "documents",
               "description": "The Documents page enables you to track traffic to your G2 Reports, including Compare Reports, GridⓇ Reports, and Index Reports. Reports appear in the Documents page after you purchase a license.",
-              "source": "@site/docs/Marketing content/documents.md",
-              "sourceDirName": "Marketing content",
-              "slug": "/Marketing content/documents",
-              "permalink": "/docs/Marketing content/documents",
+              "source": "@site/docs/Marketing-content/documents.md",
+              "sourceDirName": "Marketing-content",
+              "slug": "/Marketing-content/documents",
+              "permalink": "/docs/Marketing-content/documents",
               "draft": false,
               "tags": [],
               "version": "current",
@@ -268,22 +268,22 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "crowd_quotes",
-                "permalink": "/docs/Marketing content/crowd_quotes"
+                "permalink": "/docs/Marketing-content/crowd_quotes"
               },
               "next": {
                 "title": "g2_badges",
-                "permalink": "/docs/Marketing content/g2_badges"
+                "permalink": "/docs/Marketing-content/g2_badges"
               }
             },
             {
-              "unversionedId": "Marketing content/g2_badges",
-              "id": "Marketing content/g2_badges",
+              "unversionedId": "Marketing-content/g2_badges",
+              "id": "Marketing-content/g2_badges",
               "title": "g2_badges",
               "description": "G2 Badges provide a way to showcase your product’s performance relative to your competitors. Visitors who see a G2 Badge on your site are more likely to trust your product and convert to a sale. Badges link directly to your G2 product profile when selected.",
-              "source": "@site/docs/Marketing content/g2_badges.md",
-              "sourceDirName": "Marketing content",
-              "slug": "/Marketing content/g2_badges",
-              "permalink": "/docs/Marketing content/g2_badges",
+              "source": "@site/docs/Marketing-content/g2_badges.md",
+              "sourceDirName": "Marketing-content",
+              "slug": "/Marketing-content/g2_badges",
+              "permalink": "/docs/Marketing-content/g2_badges",
               "draft": false,
               "tags": [],
               "version": "current",
@@ -291,22 +291,22 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "documents",
-                "permalink": "/docs/Marketing content/documents"
+                "permalink": "/docs/Marketing-content/documents"
               },
               "next": {
                 "title": "reference_pages",
-                "permalink": "/docs/Marketing content/reference_pages"
+                "permalink": "/docs/Marketing-content/reference_pages"
               }
             },
             {
-              "unversionedId": "Marketing content/reference_pages",
-              "id": "Marketing content/reference_pages",
+              "unversionedId": "Marketing-content/reference_pages",
+              "id": "Marketing-content/reference_pages",
               "title": "reference_pages",
               "description": "Reference Pages provide a simple way to highlight your favorite G2 reviews while crafting a shareable, branded web page that can be customized for your target audience.",
-              "source": "@site/docs/Marketing content/reference_pages.md",
-              "sourceDirName": "Marketing content",
-              "slug": "/Marketing content/reference_pages",
-              "permalink": "/docs/Marketing content/reference_pages",
+              "source": "@site/docs/Marketing-content/reference_pages.md",
+              "sourceDirName": "Marketing-content",
+              "slug": "/Marketing-content/reference_pages",
+              "permalink": "/docs/Marketing-content/reference_pages",
               "draft": false,
               "tags": [],
               "version": "current",
@@ -314,22 +314,22 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "g2_badges",
-                "permalink": "/docs/Marketing content/g2_badges"
+                "permalink": "/docs/Marketing-content/g2_badges"
               },
               "next": {
                 "title": "report-library",
-                "permalink": "/docs/Marketing content/report-library"
+                "permalink": "/docs/Marketing-content/report-library"
               }
             },
             {
-              "unversionedId": "Marketing content/report-library",
-              "id": "Marketing content/report-library",
+              "unversionedId": "Marketing-content/report-library",
+              "id": "Marketing-content/report-library",
               "title": "report-library",
               "description": "The Report Library page serves as a repository for all your G2 Reports, including GridⓇ Reports, Index Reports, and Compare Reports. Use the Report Library to easily find specific reports to share with individual customers or use as part of marketing campaigns.",
-              "source": "@site/docs/Marketing content/report-library.md",
-              "sourceDirName": "Marketing content",
-              "slug": "/Marketing content/report-library",
-              "permalink": "/docs/Marketing content/report-library",
+              "source": "@site/docs/Marketing-content/report-library.md",
+              "sourceDirName": "Marketing-content",
+              "slug": "/Marketing-content/report-library",
+              "permalink": "/docs/Marketing-content/report-library",
               "draft": false,
               "tags": [],
               "version": "current",
@@ -337,22 +337,22 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "reference_pages",
-                "permalink": "/docs/Marketing content/reference_pages"
+                "permalink": "/docs/Marketing-content/reference_pages"
               },
               "next": {
                 "title": "widgets",
-                "permalink": "/docs/Marketing content/widgets"
+                "permalink": "/docs/Marketing-content/widgets"
               }
             },
             {
-              "unversionedId": "Marketing content/widgets",
-              "id": "Marketing content/widgets",
+              "unversionedId": "Marketing-content/widgets",
+              "id": "Marketing-content/widgets",
               "title": "widgets",
               "description": "## Metadata_Start",
-              "source": "@site/docs/Marketing content/widgets.md",
-              "sourceDirName": "Marketing content",
-              "slug": "/Marketing content/widgets",
-              "permalink": "/docs/Marketing content/widgets",
+              "source": "@site/docs/Marketing-content/widgets.md",
+              "sourceDirName": "Marketing-content",
+              "slug": "/Marketing-content/widgets",
+              "permalink": "/docs/Marketing-content/widgets",
               "draft": false,
               "tags": [],
               "version": "current",
@@ -360,7 +360,7 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "report-library",
-                "permalink": "/docs/Marketing content/report-library"
+                "permalink": "/docs/Marketing-content/report-library"
               },
               "next": {
                 "title": "Analytics",
@@ -575,18 +575,18 @@
               },
               "next": {
                 "title": "Product Suites",
-                "permalink": "/docs/Product Suites"
+                "permalink": "/docs/Product-Suites"
               }
             },
             {
-              "unversionedId": "Product Suites",
-              "id": "Product Suites",
-              "title": "Product Suites",
+              "unversionedId": "Product-Suites",
+              "id": "Product-Suites",
+              "title": "Product-Suites",
               "description": "",
-              "source": "@site/docs/Product Suites.md",
+              "source": "@site/docs/Product-Suites.md",
               "sourceDirName": ".",
-              "slug": "/Product Suites",
-              "permalink": "/docs/Product Suites",
+              "slug": "/Product-Suites",
+              "permalink": "/docs/Product-Suites",
               "draft": false,
               "tags": [],
               "version": "current",
@@ -851,15 +851,15 @@
                 "items": [
                   {
                     "type": "doc",
-                    "id": "Buyer activity/buyer-intent"
+                    "id": "Buyer-activity/buyer-intent"
                   },
                   {
                     "type": "doc",
-                    "id": "Buyer activity/leads"
+                    "id": "Buyer-activity/leads"
                   },
                   {
                     "type": "doc",
-                    "id": "Buyer activity/track_your_prospects"
+                    "id": "Buyer-activity/track_your_prospects"
                   }
                 ],
                 "link": {
@@ -917,7 +917,7 @@
               },
               {
                 "type": "doc",
-                "id": "Product Suites",
+                "id": "Product-Suites",
                 "label": "Product Suites"
               },
               {
@@ -962,27 +962,27 @@
                 "items": [
                   {
                     "type": "doc",
-                    "id": "Marketing content/crowd_quotes"
+                    "id": "Marketing-content/crowd_quotes"
                   },
                   {
                     "type": "doc",
-                    "id": "Marketing content/documents"
+                    "id": "Marketing-content/documents"
                   },
                   {
                     "type": "doc",
-                    "id": "Marketing content/g2_badges"
+                    "id": "Marketing-content/g2_badges"
                   },
                   {
                     "type": "doc",
-                    "id": "Marketing content/reference_pages"
+                    "id": "Marketing-content/reference_pages"
                   },
                   {
                     "type": "doc",
-                    "id": "Marketing content/report-library"
+                    "id": "Marketing-content/report-library"
                   },
                   {
                     "type": "doc",
-                    "id": "Marketing content/widgets"
+                    "id": "Marketing-content/widgets"
                   }
                 ],
                 "link": {
@@ -1091,7 +1091,7 @@
               },
               {
                 "type": "doc",
-                "id": "G2 API",
+                "id": "G2-API",
                 "label": "G2 API"
               }
             ]

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "Buyer-activity/buyer-intent",
+  "id": "Buyer-activity/buyer-intent",
+  "title": "buyer-intent",
+  "description": "G2 Buyer Intent captures enriched data about buyers researching your product across G2. Buyer Intent signals are triggered by a variety of actions, including interacting with your product profile page, comparing your product to a competitor, or viewing alternatives to a product in a shared G2 product category. This data enables your sales, marketing, and customer success teams to identify where an organization is on their buyer journey.",
+  "source": "@site/docs/Buyer-activity/buyer-intent.md",
+  "sourceDirName": "Buyer-activity",
+  "slug": "/Buyer-activity/buyer-intent",
+  "permalink": "/docs/Buyer-activity/buyer-intent",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Buyer Activity",
+    "permalink": "/docs/category/buyer-activity"
+  },
+  "next": {
+    "title": "leads",
+    "permalink": "/docs/Buyer-activity/leads"
+  }
+}

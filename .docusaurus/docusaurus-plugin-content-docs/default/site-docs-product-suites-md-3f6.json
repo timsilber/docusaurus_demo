@@ -1,0 +1,27 @@
+{
+  "unversionedId": "Product-Suites",
+  "id": "Product-Suites",
+  "title": "Product-Suites",
+  "description": "",
+  "source": "@site/docs/Product-Suites.md",
+  "sourceDirName": ".",
+  "slug": "/Product-Suites",
+  "permalink": "/docs/Product-Suites",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 21,
+  "frontMatter": {
+    "sidebar_label": "Product Suites",
+    "sidebar_position": 21
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "videos",
+    "permalink": "/docs/Product Profile/videos"
+  },
+  "next": {
+    "title": "Review Management",
+    "permalink": "/docs/category/review-management"
+  }
+}

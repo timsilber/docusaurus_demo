@@ -24,20 +24,20 @@
           {
             "type": "link",
             "label": "buyer-intent",
-            "href": "/docs/Buyer activity/buyer-intent",
-            "docId": "Buyer activity/buyer-intent"
+            "href": "/docs/Buyer-activity/buyer-intent",
+            "docId": "Buyer-activity/buyer-intent"
           },
           {
             "type": "link",
             "label": "leads",
-            "href": "/docs/Buyer activity/leads",
-            "docId": "Buyer activity/leads"
+            "href": "/docs/Buyer-activity/leads",
+            "docId": "Buyer-activity/leads"
           },
           {
             "type": "link",
             "label": "track_your_prospects",
-            "href": "/docs/Buyer activity/track_your_prospects",
-            "docId": "Buyer activity/track_your_prospects"
+            "href": "/docs/Buyer-activity/track_your_prospects",
+            "docId": "Buyer-activity/track_your_prospects"
           }
         ],
         "href": "/docs/category/buyer-activity"
@@ -102,8 +102,8 @@
       {
         "type": "link",
         "label": "Product Suites",
-        "href": "/docs/Product Suites",
-        "docId": "Product Suites"
+        "href": "/docs/Product-Suites",
+        "docId": "Product-Suites"
       },
       {
         "type": "category",
@@ -153,38 +153,38 @@
           {
             "type": "link",
             "label": "crowd_quotes",
-            "href": "/docs/Marketing content/crowd_quotes",
-            "docId": "Marketing content/crowd_quotes"
+            "href": "/docs/Marketing-content/crowd_quotes",
+            "docId": "Marketing-content/crowd_quotes"
           },
           {
             "type": "link",
             "label": "documents",
-            "href": "/docs/Marketing content/documents",
-            "docId": "Marketing content/documents"
+            "href": "/docs/Marketing-content/documents",
+            "docId": "Marketing-content/documents"
           },
           {
             "type": "link",
             "label": "g2_badges",
-            "href": "/docs/Marketing content/g2_badges",
-            "docId": "Marketing content/g2_badges"
+            "href": "/docs/Marketing-content/g2_badges",
+            "docId": "Marketing-content/g2_badges"
           },
           {
             "type": "link",
             "label": "reference_pages",
-            "href": "/docs/Marketing content/reference_pages",
-            "docId": "Marketing content/reference_pages"
+            "href": "/docs/Marketing-content/reference_pages",
+            "docId": "Marketing-content/reference_pages"
           },
           {
             "type": "link",
             "label": "report-library",
-            "href": "/docs/Marketing content/report-library",
-            "docId": "Marketing content/report-library"
+            "href": "/docs/Marketing-content/report-library",
+            "docId": "Marketing-content/report-library"
           },
           {
             "type": "link",
             "label": "widgets",
-            "href": "/docs/Marketing content/widgets",
-            "docId": "Marketing content/widgets"
+            "href": "/docs/Marketing-content/widgets",
+            "docId": "Marketing-content/widgets"
           }
         ],
         "href": "/docs/category/marketing-content"
@@ -294,8 +294,8 @@
       {
         "type": "link",
         "label": "G2 API",
-        "href": "/docs/G2 API",
-        "docId": "G2 API"
+        "href": "/docs/G2-API",
+        "docId": "G2-API"
       }
     ]
   },
@@ -312,33 +312,33 @@
       "description": "The Profile Activity page collects several types of traffic analytics measuring your product’s performance on G2, enabling you to track activity changes over time and compare your traffic to your competitors.",
       "sidebar": "tutorialSidebar"
     },
-    "Buyer activity/buyer-intent": {
-      "id": "Buyer activity/buyer-intent",
-      "title": "buyer-intent",
-      "description": "G2 Buyer Intent captures enriched data about buyers researching your product across G2. Buyer Intent signals are triggered by a variety of actions, including interacting with your product profile page, comparing your product to a competitor, or viewing alternatives to a product in a shared G2 product category. This data enables your sales, marketing, and customer success teams to identify where an organization is on their buyer journey.",
-      "sidebar": "tutorialSidebar"
-    },
-    "Buyer activity/leads": {
-      "id": "Buyer activity/leads",
-      "title": "leads",
-      "description": "G2 leads are generated when buyers access gated content such as videos and downloads on your G2 product profile page, request that your organization contact them, or ask for a custom quote. These experiences require the buyer to submit contact details and other information via your lead form, which means leads are buyers that you know are interested in your product and are willing to be contacted directly by your organization.",
-      "sidebar": "tutorialSidebar"
-    },
-    "Buyer activity/track_your_prospects": {
-      "id": "Buyer activity/track_your_prospects",
-      "title": "track_your_prospects",
-      "description": "# Track Your Prospects",
-      "sidebar": "tutorialSidebar"
-    },
     "buyer_engagement_score": {
       "id": "buyer_engagement_score",
       "title": "Buyer Engagement score",
       "description": "The Buyer Engagement score provides recommended tasks to complete to ensure that you are engaging appropriately with potential buyers via G2. The Buyer Engagement score also measures your progress in completing those tasks.",
       "sidebar": "tutorialSidebar"
     },
-    "G2 API": {
-      "id": "G2 API",
-      "title": "G2 API",
+    "Buyer-activity/buyer-intent": {
+      "id": "Buyer-activity/buyer-intent",
+      "title": "buyer-intent",
+      "description": "G2 Buyer Intent captures enriched data about buyers researching your product across G2. Buyer Intent signals are triggered by a variety of actions, including interacting with your product profile page, comparing your product to a competitor, or viewing alternatives to a product in a shared G2 product category. This data enables your sales, marketing, and customer success teams to identify where an organization is on their buyer journey.",
+      "sidebar": "tutorialSidebar"
+    },
+    "Buyer-activity/leads": {
+      "id": "Buyer-activity/leads",
+      "title": "leads",
+      "description": "G2 leads are generated when buyers access gated content such as videos and downloads on your G2 product profile page, request that your organization contact them, or ask for a custom quote. These experiences require the buyer to submit contact details and other information via your lead form, which means leads are buyers that you know are interested in your product and are willing to be contacted directly by your organization.",
+      "sidebar": "tutorialSidebar"
+    },
+    "Buyer-activity/track_your_prospects": {
+      "id": "Buyer-activity/track_your_prospects",
+      "title": "track_your_prospects",
+      "description": "# Track Your Prospects",
+      "sidebar": "tutorialSidebar"
+    },
+    "G2-API": {
+      "id": "G2-API",
+      "title": "G2-API",
       "description": "",
       "sidebar": "tutorialSidebar"
     },
@@ -354,38 +354,38 @@
       "description": "{/ 9f9dba51-b4e6-4c79-a27b-31cc5a6683f4 /}",
       "sidebar": "tutorialSidebar"
     },
-    "Marketing content/crowd_quotes": {
-      "id": "Marketing content/crowd_quotes",
+    "Marketing-content/crowd_quotes": {
+      "id": "Marketing-content/crowd_quotes",
       "title": "crowd_quotes",
       "description": "Crowd Quotes provides a convenient way to supply your sales, marketing, and design teams with snippets of your G2 reviews. Use Crowd Quotes to build trust and improve your marketing campaigns by displaying rich-text reviews from real users of your products.",
       "sidebar": "tutorialSidebar"
     },
-    "Marketing content/documents": {
-      "id": "Marketing content/documents",
+    "Marketing-content/documents": {
+      "id": "Marketing-content/documents",
       "title": "documents",
       "description": "The Documents page enables you to track traffic to your G2 Reports, including Compare Reports, GridⓇ Reports, and Index Reports. Reports appear in the Documents page after you purchase a license.",
       "sidebar": "tutorialSidebar"
     },
-    "Marketing content/g2_badges": {
-      "id": "Marketing content/g2_badges",
+    "Marketing-content/g2_badges": {
+      "id": "Marketing-content/g2_badges",
       "title": "g2_badges",
       "description": "G2 Badges provide a way to showcase your product’s performance relative to your competitors. Visitors who see a G2 Badge on your site are more likely to trust your product and convert to a sale. Badges link directly to your G2 product profile when selected.",
       "sidebar": "tutorialSidebar"
     },
-    "Marketing content/reference_pages": {
-      "id": "Marketing content/reference_pages",
+    "Marketing-content/reference_pages": {
+      "id": "Marketing-content/reference_pages",
       "title": "reference_pages",
       "description": "Reference Pages provide a simple way to highlight your favorite G2 reviews while crafting a shareable, branded web page that can be customized for your target audience.",
       "sidebar": "tutorialSidebar"
     },
-    "Marketing content/report-library": {
-      "id": "Marketing content/report-library",
+    "Marketing-content/report-library": {
+      "id": "Marketing-content/report-library",
       "title": "report-library",
       "description": "The Report Library page serves as a repository for all your G2 Reports, including GridⓇ Reports, Index Reports, and Compare Reports. Use the Report Library to easily find specific reports to share with individual customers or use as part of marketing campaigns.",
       "sidebar": "tutorialSidebar"
     },
-    "Marketing content/widgets": {
-      "id": "Marketing content/widgets",
+    "Marketing-content/widgets": {
+      "id": "Marketing-content/widgets",
       "title": "widgets",
       "description": "## Metadata_Start",
       "sidebar": "tutorialSidebar"
@@ -444,9 +444,9 @@
       "description": "Metadata_Start",
       "sidebar": "tutorialSidebar"
     },
-    "Product Suites": {
-      "id": "Product Suites",
-      "title": "Product Suites",
+    "Product-Suites": {
+      "id": "Product-Suites",
+      "title": "Product-Suites",
       "description": "",
       "sidebar": "tutorialSidebar"
     },

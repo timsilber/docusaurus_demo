@@ -3,13 +3,48 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 
 export default [
   {
+    path: '/__docusaurus/debug',
+    component: ComponentCreator('/__docusaurus/debug', '3e3'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/config',
+    component: ComponentCreator('/__docusaurus/debug/config', 'df8'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/content',
+    component: ComponentCreator('/__docusaurus/debug/content', '625'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/globalData',
+    component: ComponentCreator('/__docusaurus/debug/globalData', '526'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/metadata',
+    component: ComponentCreator('/__docusaurus/debug/metadata', '3cb'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/registry',
+    component: ComponentCreator('/__docusaurus/debug/registry', '265'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/routes',
+    component: ComponentCreator('/__docusaurus/debug/routes', '934'),
+    exact: true
+  },
+  {
     path: '/markdown-page',
     component: ComponentCreator('/markdown-page', 'd86'),
     exact: true
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', 'b8b'),
+    component: ComponentCreator('/docs', '023'),
     routes: [
       {
         path: '/docs/Analytics/competitors',
@@ -24,26 +59,26 @@ export default [
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/Buyer activity/buyer-intent',
-        component: ComponentCreator('/docs/Buyer activity/buyer-intent', '234'),
-        exact: true,
-        sidebar: "tutorialSidebar"
-      },
-      {
-        path: '/docs/Buyer activity/leads',
-        component: ComponentCreator('/docs/Buyer activity/leads', '9ff'),
-        exact: true,
-        sidebar: "tutorialSidebar"
-      },
-      {
-        path: '/docs/Buyer activity/track_your_prospects',
-        component: ComponentCreator('/docs/Buyer activity/track_your_prospects', '018'),
-        exact: true,
-        sidebar: "tutorialSidebar"
-      },
-      {
         path: '/docs/buyer_engagement_score',
         component: ComponentCreator('/docs/buyer_engagement_score', '628'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/docs/Buyer-activity/buyer-intent',
+        component: ComponentCreator('/docs/Buyer-activity/buyer-intent', '765'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/docs/Buyer-activity/leads',
+        component: ComponentCreator('/docs/Buyer-activity/leads', 'e60'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/docs/Buyer-activity/track_your_prospects',
+        component: ComponentCreator('/docs/Buyer-activity/track_your_prospects', '776'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
@@ -84,8 +119,8 @@ export default [
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/G2 API',
-        component: ComponentCreator('/docs/G2 API', 'e47'),
+        path: '/docs/G2-API',
+        component: ComponentCreator('/docs/G2-API', '1d7'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
@@ -102,38 +137,38 @@ export default [
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/Marketing content/crowd_quotes',
-        component: ComponentCreator('/docs/Marketing content/crowd_quotes', 'f32'),
+        path: '/docs/Marketing-content/crowd_quotes',
+        component: ComponentCreator('/docs/Marketing-content/crowd_quotes', '937'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/Marketing content/documents',
-        component: ComponentCreator('/docs/Marketing content/documents', '5da'),
+        path: '/docs/Marketing-content/documents',
+        component: ComponentCreator('/docs/Marketing-content/documents', '9c2'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/Marketing content/g2_badges',
-        component: ComponentCreator('/docs/Marketing content/g2_badges', 'dea'),
+        path: '/docs/Marketing-content/g2_badges',
+        component: ComponentCreator('/docs/Marketing-content/g2_badges', '081'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/Marketing content/reference_pages',
-        component: ComponentCreator('/docs/Marketing content/reference_pages', '41e'),
+        path: '/docs/Marketing-content/reference_pages',
+        component: ComponentCreator('/docs/Marketing-content/reference_pages', '831'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/Marketing content/report-library',
-        component: ComponentCreator('/docs/Marketing content/report-library', 'f9f'),
+        path: '/docs/Marketing-content/report-library',
+        component: ComponentCreator('/docs/Marketing-content/report-library', '2c7'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/Marketing content/widgets',
-        component: ComponentCreator('/docs/Marketing content/widgets', '203'),
+        path: '/docs/Marketing-content/widgets',
+        component: ComponentCreator('/docs/Marketing-content/widgets', 'd71'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
@@ -192,8 +227,8 @@ export default [
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/Product Suites',
-        component: ComponentCreator('/docs/Product Suites', '4cf'),
+        path: '/docs/Product-Suites',
+        component: ComponentCreator('/docs/Product-Suites', 'e45'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
