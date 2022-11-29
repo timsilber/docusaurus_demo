@@ -1,0 +1,23 @@
+{
+  "unversionedId": "Review-Management/review_campaigns",
+  "id": "Review-Management/review_campaigns",
+  "title": "review_campaigns",
+  "description": "{/ 28258a6f-3181-4644-b415-af3f1809e4cb /}",
+  "source": "@site/docs/Review-Management/review_campaigns.md",
+  "sourceDirName": "Review-Management",
+  "slug": "/Review-Management/review_campaigns",
+  "permalink": "/docs/Review-Management/review_campaigns",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "review-activity",
+    "permalink": "/docs/Review-Management/review-activity"
+  },
+  "next": {
+    "title": "Marketing Content",
+    "permalink": "/docs/category/marketing-content"
+  }
+}

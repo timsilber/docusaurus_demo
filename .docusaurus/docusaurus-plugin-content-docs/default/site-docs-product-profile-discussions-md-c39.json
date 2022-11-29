@@ -1,0 +1,23 @@
+{
+  "unversionedId": "Product-Profile/discussions",
+  "id": "Product-Profile/discussions",
+  "title": "discussions",
+  "description": "Metadata_Start",
+  "source": "@site/docs/Product-Profile/discussions.md",
+  "sourceDirName": "Product-Profile",
+  "slug": "/Product-Profile/discussions",
+  "permalink": "/docs/Product-Profile/discussions",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Product Profile",
+    "permalink": "/docs/category/product-profile"
+  },
+  "next": {
+    "title": "downloads",
+    "permalink": "/docs/Product-Profile/downloads"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "Product-Profile/screenshots",
+  "id": "Product-Profile/screenshots",
+  "title": "screenshots",
+  "description": "Metadata_Start",
+  "source": "@site/docs/Product-Profile/screenshots.md",
+  "sourceDirName": "Product-Profile",
+  "slug": "/Product-Profile/screenshots",
+  "permalink": "/docs/Product-Profile/screenshots",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "product_information",
+    "permalink": "/docs/Product-Profile/product_information"
+  },
+  "next": {
+    "title": "videos",
+    "permalink": "/docs/Product-Profile/videos"
+  }
+}

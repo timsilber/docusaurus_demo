@@ -5,11 +5,11 @@
 
 G2 Badges provide a way to showcase your product’s performance relative to your competitors. Visitors who see a G2 Badge on your site are more [likely to trust your product ](https://sell.g2.com/g2-trust-badges)and convert to a sale. Badges link directly to your G2 product profile when selected.
 
-<div style="display:flex;justify-content:space-around;">
-<div><a title="G2 Marketing Solutions is a leader in Buyer Intent Data Tools on G2" href="https://www.g2.com/products/g2-seller-solutions/reviews?utm_source=rewards-badge"><img style="width: 13em" alt="G2 Marketing Solutions is a leader in Buyer Intent Data Tools on G2" src="https://images.g2crowd.com/uploads/report_medal/image/2695/medal.svg" /></a></div>
-
-<div><a title="G2 Marketing Solutions is a leader in Buyer Intent Data Tools on G2" href="https://www.g2.com/products/g2-seller-solutions/reviews?utm_source=rewards-badge"><img style="width: 13em" alt="G2 Marketing Solutions is a leader in Buyer Intent Data Tools on G2" src="https://images.g2crowd.com/uploads/report_medal/image/2643/medal.svg" /></a></div>
+<div style={{display: 'flex', justifyContent: 'space-around'}}>
+  <div><a title="G2 Marketing Solutions is a leader in Buyer Intent Data Tools on G2" href="https://www.g2.com/products/g2-seller-solutions/reviews?utm_source=rewards-badge"><img style={{width: '13em'}} alt="G2 Marketing Solutions is a leader in Buyer Intent Data Tools on G2" src="https://images.g2crowd.com/uploads/report_medal/image/2695/medal.svg" /></a></div>
+  <div><a title="G2 Marketing Solutions is a leader in Buyer Intent Data Tools on G2" href="https://www.g2.com/products/g2-seller-solutions/reviews?utm_source=rewards-badge"><img style={{width: '13em'}} alt="G2 Marketing Solutions is a leader in Buyer Intent Data Tools on G2" src="https://images.g2crowd.com/uploads/report_medal/image/2643/medal.svg" /></a></div>
 </div>
+
 
 A G2 Badge is automatically generated for your product if it is included in a G2 [Market Report](https://my.g2.com/~/reports_library). For more information on the inclusion criteria and scoring for Market Reports, check out G2’s [Research Scoring and Methodologies](https://research.g2.com/methodology/scoring) guide.
 
@@ -20,12 +20,14 @@ Make sure to update your G2 Badges and other report-based rewards quarterly to r
 You can also earn Additional Rewards, such as the Users Love Us badge, which is earned after collecting 20 reviews with an average rating of 4.0+ stars.
 
 <center>
-<a title="Users love G2 Marketing Solutions on G2" href="https://www.g2.com/products/g2-seller-solutions/reviews?utm_source=rewards-badge"><img style="width: 13em; position: center;" alt="Users love G2 Marketing Solutions on G2" src="https://my.g2.com/assets/product-badges/users-love-us-2008b519df49af90dcfa7db4b5fe13c8ec24ced0348f0a6bd039711ad8bbffc7.svg" /></a>
+  <a title="Users love G2 Marketing Solutions on G2" href="https://www.g2.com/products/g2-seller-solutions/reviews?utm_source=rewards-badge"><img style={{width: '13em', position: 'center'}} alt="Users love G2 Marketing Solutions on G2" src="https://my.g2.com/assets/product-badges/users-love-us-2008b519df49af90dcfa7db4b5fe13c8ec24ced0348f0a6bd039711ad8bbffc7.svg" /></a>
 </center>
+
 
 As your product earns new Badges, G2 automatically updates your profile Badge with one from the most recent reporting season. For more information on manually choosing a G2 Badge for your product profile, refer to G2's [Product Profile](https://documentation.g2.com/g2/docs/product-information#profile-g2-badge) documentation.
 
 <center><img src="https://cdn.document360.io/1759d01c-b118-4f31-81f7-e4011071a6d4/Images/Documentation/g2%20profile%20badge%281%29.png" /></center>
+
 
 ## Viewing and downloading your G2 Badges
 

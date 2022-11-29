@@ -1,0 +1,23 @@
+{
+  "unversionedId": "Review-Management/campaign_dashboard",
+  "id": "Review-Management/campaign_dashboard",
+  "title": "campaign_dashboard",
+  "description": "## Metadata_Start",
+  "source": "@site/docs/Review-Management/campaign_dashboard.md",
+  "sourceDirName": "Review-Management",
+  "slug": "/Review-Management/campaign_dashboard",
+  "permalink": "/docs/Review-Management/campaign_dashboard",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Review Management",
+    "permalink": "/docs/category/review-management"
+  },
+  "next": {
+    "title": "custom_questions",
+    "permalink": "/docs/Review-Management/custom_questions"
+  }
+}

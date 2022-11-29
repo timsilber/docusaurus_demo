@@ -1,0 +1,23 @@
+{
+  "unversionedId": "Product-Profile/features",
+  "id": "Product-Profile/features",
+  "title": "features",
+  "description": "Metadata_Start",
+  "source": "@site/docs/Product-Profile/features.md",
+  "sourceDirName": "Product-Profile",
+  "slug": "/Product-Profile/features",
+  "permalink": "/docs/Product-Profile/features",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "ethics_values",
+    "permalink": "/docs/Product-Profile/ethics_values"
+  },
+  "next": {
+    "title": "packages_pricing",
+    "permalink": "/docs/Product-Profile/packages_pricing"
+  }
+}

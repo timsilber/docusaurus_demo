@@ -1,0 +1,23 @@
+{
+  "unversionedId": "Product-Profile/product_information",
+  "id": "Product-Profile/product_information",
+  "title": "product_information",
+  "description": "## Metadata_Start",
+  "source": "@site/docs/Product-Profile/product_information.md",
+  "sourceDirName": "Product-Profile",
+  "slug": "/Product-Profile/product_information",
+  "permalink": "/docs/Product-Profile/product_information",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "packages_pricing",
+    "permalink": "/docs/Product-Profile/packages_pricing"
+  },
+  "next": {
+    "title": "screenshots",
+    "permalink": "/docs/Product-Profile/screenshots"
+  }
+}

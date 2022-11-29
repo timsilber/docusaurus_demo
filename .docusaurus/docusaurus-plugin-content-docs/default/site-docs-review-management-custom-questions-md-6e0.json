@@ -1,0 +1,23 @@
+{
+  "unversionedId": "Review-Management/custom_questions",
+  "id": "Review-Management/custom_questions",
+  "title": "custom_questions",
+  "description": "{/ 7153591b-a402-4b33-8b41-778ee3961c9a /}",
+  "source": "@site/docs/Review-Management/custom_questions.md",
+  "sourceDirName": "Review-Management",
+  "slug": "/Review-Management/custom_questions",
+  "permalink": "/docs/Review-Management/custom_questions",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "campaign_dashboard",
+    "permalink": "/docs/Review-Management/campaign_dashboard"
+  },
+  "next": {
+    "title": "references-from-reviews",
+    "permalink": "/docs/Review-Management/references-from-reviews"
+  }
+}

@@ -395,14 +395,14 @@
               }
             },
             {
-              "unversionedId": "Product Profile/discussions",
-              "id": "Product Profile/discussions",
+              "unversionedId": "Product-Profile/discussions",
+              "id": "Product-Profile/discussions",
               "title": "discussions",
               "description": "Metadata_Start",
-              "source": "@site/docs/Product Profile/discussions.md",
-              "sourceDirName": "Product Profile",
-              "slug": "/Product Profile/discussions",
-              "permalink": "/docs/Product Profile/discussions",
+              "source": "@site/docs/Product-Profile/discussions.md",
+              "sourceDirName": "Product-Profile",
+              "slug": "/Product-Profile/discussions",
+              "permalink": "/docs/Product-Profile/discussions",
               "draft": false,
               "tags": [],
               "version": "current",
@@ -414,18 +414,18 @@
               },
               "next": {
                 "title": "downloads",
-                "permalink": "/docs/Product Profile/downloads"
+                "permalink": "/docs/Product-Profile/downloads"
               }
             },
             {
-              "unversionedId": "Product Profile/downloads",
-              "id": "Product Profile/downloads",
+              "unversionedId": "Product-Profile/downloads",
+              "id": "Product-Profile/downloads",
               "title": "downloads",
               "description": "## Metadata_Start",
-              "source": "@site/docs/Product Profile/downloads.md",
-              "sourceDirName": "Product Profile",
-              "slug": "/Product Profile/downloads",
-              "permalink": "/docs/Product Profile/downloads",
+              "source": "@site/docs/Product-Profile/downloads.md",
+              "sourceDirName": "Product-Profile",
+              "slug": "/Product-Profile/downloads",
+              "permalink": "/docs/Product-Profile/downloads",
               "draft": false,
               "tags": [],
               "version": "current",
@@ -433,22 +433,22 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "discussions",
-                "permalink": "/docs/Product Profile/discussions"
+                "permalink": "/docs/Product-Profile/discussions"
               },
               "next": {
                 "title": "ethics_values",
-                "permalink": "/docs/Product Profile/ethics_values"
+                "permalink": "/docs/Product-Profile/ethics_values"
               }
             },
             {
-              "unversionedId": "Product Profile/ethics_values",
-              "id": "Product Profile/ethics_values",
+              "unversionedId": "Product-Profile/ethics_values",
+              "id": "Product-Profile/ethics_values",
               "title": "ethics_values",
               "description": "Metadata_Start",
-              "source": "@site/docs/Product Profile/ethics_values.md",
-              "sourceDirName": "Product Profile",
-              "slug": "/Product Profile/ethics_values",
-              "permalink": "/docs/Product Profile/ethics_values",
+              "source": "@site/docs/Product-Profile/ethics_values.md",
+              "sourceDirName": "Product-Profile",
+              "slug": "/Product-Profile/ethics_values",
+              "permalink": "/docs/Product-Profile/ethics_values",
               "draft": false,
               "tags": [],
               "version": "current",
@@ -456,22 +456,22 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "downloads",
-                "permalink": "/docs/Product Profile/downloads"
+                "permalink": "/docs/Product-Profile/downloads"
               },
               "next": {
                 "title": "features",
-                "permalink": "/docs/Product Profile/features"
+                "permalink": "/docs/Product-Profile/features"
               }
             },
             {
-              "unversionedId": "Product Profile/features",
-              "id": "Product Profile/features",
+              "unversionedId": "Product-Profile/features",
+              "id": "Product-Profile/features",
               "title": "features",
               "description": "Metadata_Start",
-              "source": "@site/docs/Product Profile/features.md",
-              "sourceDirName": "Product Profile",
-              "slug": "/Product Profile/features",
-              "permalink": "/docs/Product Profile/features",
+              "source": "@site/docs/Product-Profile/features.md",
+              "sourceDirName": "Product-Profile",
+              "slug": "/Product-Profile/features",
+              "permalink": "/docs/Product-Profile/features",
               "draft": false,
               "tags": [],
               "version": "current",
@@ -479,22 +479,22 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "ethics_values",
-                "permalink": "/docs/Product Profile/ethics_values"
+                "permalink": "/docs/Product-Profile/ethics_values"
               },
               "next": {
                 "title": "packages_pricing",
-                "permalink": "/docs/Product Profile/packages_pricing"
+                "permalink": "/docs/Product-Profile/packages_pricing"
               }
             },
             {
-              "unversionedId": "Product Profile/packages_pricing",
-              "id": "Product Profile/packages_pricing",
+              "unversionedId": "Product-Profile/packages_pricing",
+              "id": "Product-Profile/packages_pricing",
               "title": "packages_pricing",
               "description": "## Metadata_Start",
-              "source": "@site/docs/Product Profile/packages_pricing.md",
-              "sourceDirName": "Product Profile",
-              "slug": "/Product Profile/packages_pricing",
-              "permalink": "/docs/Product Profile/packages_pricing",
+              "source": "@site/docs/Product-Profile/packages_pricing.md",
+              "sourceDirName": "Product-Profile",
+              "slug": "/Product-Profile/packages_pricing",
+              "permalink": "/docs/Product-Profile/packages_pricing",
               "draft": false,
               "tags": [],
               "version": "current",
@@ -502,22 +502,22 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "features",
-                "permalink": "/docs/Product Profile/features"
+                "permalink": "/docs/Product-Profile/features"
               },
               "next": {
                 "title": "product_information",
-                "permalink": "/docs/Product Profile/product_information"
+                "permalink": "/docs/Product-Profile/product_information"
               }
             },
             {
-              "unversionedId": "Product Profile/product_information",
-              "id": "Product Profile/product_information",
+              "unversionedId": "Product-Profile/product_information",
+              "id": "Product-Profile/product_information",
               "title": "product_information",
               "description": "## Metadata_Start",
-              "source": "@site/docs/Product Profile/product_information.md",
-              "sourceDirName": "Product Profile",
-              "slug": "/Product Profile/product_information",
-              "permalink": "/docs/Product Profile/product_information",
+              "source": "@site/docs/Product-Profile/product_information.md",
+              "sourceDirName": "Product-Profile",
+              "slug": "/Product-Profile/product_information",
+              "permalink": "/docs/Product-Profile/product_information",
               "draft": false,
               "tags": [],
               "version": "current",
@@ -525,22 +525,22 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "packages_pricing",
-                "permalink": "/docs/Product Profile/packages_pricing"
+                "permalink": "/docs/Product-Profile/packages_pricing"
               },
               "next": {
                 "title": "screenshots",
-                "permalink": "/docs/Product Profile/screenshots"
+                "permalink": "/docs/Product-Profile/screenshots"
               }
             },
             {
-              "unversionedId": "Product Profile/screenshots",
-              "id": "Product Profile/screenshots",
+              "unversionedId": "Product-Profile/screenshots",
+              "id": "Product-Profile/screenshots",
               "title": "screenshots",
               "description": "Metadata_Start",
-              "source": "@site/docs/Product Profile/screenshots.md",
-              "sourceDirName": "Product Profile",
-              "slug": "/Product Profile/screenshots",
-              "permalink": "/docs/Product Profile/screenshots",
+              "source": "@site/docs/Product-Profile/screenshots.md",
+              "sourceDirName": "Product-Profile",
+              "slug": "/Product-Profile/screenshots",
+              "permalink": "/docs/Product-Profile/screenshots",
               "draft": false,
               "tags": [],
               "version": "current",
@@ -548,22 +548,22 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "product_information",
-                "permalink": "/docs/Product Profile/product_information"
+                "permalink": "/docs/Product-Profile/product_information"
               },
               "next": {
                 "title": "videos",
-                "permalink": "/docs/Product Profile/videos"
+                "permalink": "/docs/Product-Profile/videos"
               }
             },
             {
-              "unversionedId": "Product Profile/videos",
-              "id": "Product Profile/videos",
+              "unversionedId": "Product-Profile/videos",
+              "id": "Product-Profile/videos",
               "title": "videos",
               "description": "Metadata_Start",
-              "source": "@site/docs/Product Profile/videos.md",
-              "sourceDirName": "Product Profile",
-              "slug": "/Product Profile/videos",
-              "permalink": "/docs/Product Profile/videos",
+              "source": "@site/docs/Product-Profile/videos.md",
+              "sourceDirName": "Product-Profile",
+              "slug": "/Product-Profile/videos",
+              "permalink": "/docs/Product-Profile/videos",
               "draft": false,
               "tags": [],
               "version": "current",
@@ -571,7 +571,7 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "screenshots",
-                "permalink": "/docs/Product Profile/screenshots"
+                "permalink": "/docs/Product-Profile/screenshots"
               },
               "next": {
                 "title": "Product Suites",
@@ -598,7 +598,7 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "videos",
-                "permalink": "/docs/Product Profile/videos"
+                "permalink": "/docs/Product-Profile/videos"
               },
               "next": {
                 "title": "Review Management",
@@ -606,14 +606,14 @@
               }
             },
             {
-              "unversionedId": "Review Management/campaign_dashboard",
-              "id": "Review Management/campaign_dashboard",
+              "unversionedId": "Review-Management/campaign_dashboard",
+              "id": "Review-Management/campaign_dashboard",
               "title": "campaign_dashboard",
               "description": "## Metadata_Start",
-              "source": "@site/docs/Review Management/campaign_dashboard.md",
-              "sourceDirName": "Review Management",
-              "slug": "/Review Management/campaign_dashboard",
-              "permalink": "/docs/Review Management/campaign_dashboard",
+              "source": "@site/docs/Review-Management/campaign_dashboard.md",
+              "sourceDirName": "Review-Management",
+              "slug": "/Review-Management/campaign_dashboard",
+              "permalink": "/docs/Review-Management/campaign_dashboard",
               "draft": false,
               "tags": [],
               "version": "current",
@@ -625,18 +625,18 @@
               },
               "next": {
                 "title": "custom_questions",
-                "permalink": "/docs/Review Management/custom_questions"
+                "permalink": "/docs/Review-Management/custom_questions"
               }
             },
             {
-              "unversionedId": "Review Management/custom_questions",
-              "id": "Review Management/custom_questions",
+              "unversionedId": "Review-Management/custom_questions",
+              "id": "Review-Management/custom_questions",
               "title": "custom_questions",
               "description": "{/ 7153591b-a402-4b33-8b41-778ee3961c9a /}",
-              "source": "@site/docs/Review Management/custom_questions.md",
-              "sourceDirName": "Review Management",
-              "slug": "/Review Management/custom_questions",
-              "permalink": "/docs/Review Management/custom_questions",
+              "source": "@site/docs/Review-Management/custom_questions.md",
+              "sourceDirName": "Review-Management",
+              "slug": "/Review-Management/custom_questions",
+              "permalink": "/docs/Review-Management/custom_questions",
               "draft": false,
               "tags": [],
               "version": "current",
@@ -644,22 +644,22 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "campaign_dashboard",
-                "permalink": "/docs/Review Management/campaign_dashboard"
+                "permalink": "/docs/Review-Management/campaign_dashboard"
               },
               "next": {
                 "title": "references-from-reviews",
-                "permalink": "/docs/Review Management/references-from-reviews"
+                "permalink": "/docs/Review-Management/references-from-reviews"
               }
             },
             {
-              "unversionedId": "Review Management/references-from-reviews",
-              "id": "Review Management/references-from-reviews",
+              "unversionedId": "Review-Management/references-from-reviews",
+              "id": "Review-Management/references-from-reviews",
               "title": "references-from-reviews",
               "description": "References from Reviews enables you to easily connect with reviewers who agree to be a reference for your product. Use this page to access the contact information for your references to provide to prospects, or to discuss future advertising and promotional opportunities with your references directly.",
-              "source": "@site/docs/Review Management/references-from-reviews.md",
-              "sourceDirName": "Review Management",
-              "slug": "/Review Management/references-from-reviews",
-              "permalink": "/docs/Review Management/references-from-reviews",
+              "source": "@site/docs/Review-Management/references-from-reviews.md",
+              "sourceDirName": "Review-Management",
+              "slug": "/Review-Management/references-from-reviews",
+              "permalink": "/docs/Review-Management/references-from-reviews",
               "draft": false,
               "tags": [],
               "version": "current",
@@ -667,22 +667,22 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "custom_questions",
-                "permalink": "/docs/Review Management/custom_questions"
+                "permalink": "/docs/Review-Management/custom_questions"
               },
               "next": {
                 "title": "review-activity",
-                "permalink": "/docs/Review Management/review-activity"
+                "permalink": "/docs/Review-Management/review-activity"
               }
             },
             {
-              "unversionedId": "Review Management/review_campaigns",
-              "id": "Review Management/review_campaigns",
+              "unversionedId": "Review-Management/review_campaigns",
+              "id": "Review-Management/review_campaigns",
               "title": "review_campaigns",
               "description": "{/ 28258a6f-3181-4644-b415-af3f1809e4cb /}",
-              "source": "@site/docs/Review Management/review_campaigns.md",
-              "sourceDirName": "Review Management",
-              "slug": "/Review Management/review_campaigns",
-              "permalink": "/docs/Review Management/review_campaigns",
+              "source": "@site/docs/Review-Management/review_campaigns.md",
+              "sourceDirName": "Review-Management",
+              "slug": "/Review-Management/review_campaigns",
+              "permalink": "/docs/Review-Management/review_campaigns",
               "draft": false,
               "tags": [],
               "version": "current",
@@ -690,7 +690,7 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "review-activity",
-                "permalink": "/docs/Review Management/review-activity"
+                "permalink": "/docs/Review-Management/review-activity"
               },
               "next": {
                 "title": "Marketing Content",
@@ -698,14 +698,14 @@
               }
             },
             {
-              "unversionedId": "Review Management/review-activity",
-              "id": "Review Management/review-activity",
+              "unversionedId": "Review-Management/review-activity",
+              "id": "Review-Management/review-activity",
               "title": "review-activity",
               "description": "The Review Activity page helps you monitor, analyze, and respond to your product’s G2 reviews directly from my.G2. Review Activity enables you to find reviews and take action, from setting up email notifications to using review filters.",
-              "source": "@site/docs/Review Management/review-activity.md",
-              "sourceDirName": "Review Management",
-              "slug": "/Review Management/review-activity",
-              "permalink": "/docs/Review Management/review-activity",
+              "source": "@site/docs/Review-Management/review-activity.md",
+              "sourceDirName": "Review-Management",
+              "slug": "/Review-Management/review-activity",
+              "permalink": "/docs/Review-Management/review-activity",
               "draft": false,
               "tags": [],
               "version": "current",
@@ -713,11 +713,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "references-from-reviews",
-                "permalink": "/docs/Review Management/references-from-reviews"
+                "permalink": "/docs/Review-Management/references-from-reviews"
               },
               "next": {
                 "title": "review_campaigns",
-                "permalink": "/docs/Review Management/review_campaigns"
+                "permalink": "/docs/Review-Management/review_campaigns"
               }
             },
             {
@@ -877,35 +877,35 @@
                 "items": [
                   {
                     "type": "doc",
-                    "id": "Product Profile/discussions"
+                    "id": "Product-Profile/discussions"
                   },
                   {
                     "type": "doc",
-                    "id": "Product Profile/downloads"
+                    "id": "Product-Profile/downloads"
                   },
                   {
                     "type": "doc",
-                    "id": "Product Profile/ethics_values"
+                    "id": "Product-Profile/ethics_values"
                   },
                   {
                     "type": "doc",
-                    "id": "Product Profile/features"
+                    "id": "Product-Profile/features"
                   },
                   {
                     "type": "doc",
-                    "id": "Product Profile/packages_pricing"
+                    "id": "Product-Profile/packages_pricing"
                   },
                   {
                     "type": "doc",
-                    "id": "Product Profile/product_information"
+                    "id": "Product-Profile/product_information"
                   },
                   {
                     "type": "doc",
-                    "id": "Product Profile/screenshots"
+                    "id": "Product-Profile/screenshots"
                   },
                   {
                     "type": "doc",
-                    "id": "Product Profile/videos"
+                    "id": "Product-Profile/videos"
                   }
                 ],
                 "link": {
@@ -928,23 +928,23 @@
                 "items": [
                   {
                     "type": "doc",
-                    "id": "Review Management/campaign_dashboard"
+                    "id": "Review-Management/campaign_dashboard"
                   },
                   {
                     "type": "doc",
-                    "id": "Review Management/custom_questions"
+                    "id": "Review-Management/custom_questions"
                   },
                   {
                     "type": "doc",
-                    "id": "Review Management/references-from-reviews"
+                    "id": "Review-Management/references-from-reviews"
                   },
                   {
                     "type": "doc",
-                    "id": "Review Management/review-activity"
+                    "id": "Review-Management/review-activity"
                   },
                   {
                     "type": "doc",
-                    "id": "Review Management/review_campaigns"
+                    "id": "Review-Management/review_campaigns"
                   }
                 ],
                 "link": {

@@ -44,7 +44,7 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', '023'),
+    component: ComponentCreator('/docs', 'f78'),
     routes: [
       {
         path: '/docs/Analytics/competitors',
@@ -179,50 +179,50 @@ export default [
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/Product Profile/discussions',
-        component: ComponentCreator('/docs/Product Profile/discussions', 'ea8'),
+        path: '/docs/Product-Profile/discussions',
+        component: ComponentCreator('/docs/Product-Profile/discussions', '728'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/Product Profile/downloads',
-        component: ComponentCreator('/docs/Product Profile/downloads', '827'),
+        path: '/docs/Product-Profile/downloads',
+        component: ComponentCreator('/docs/Product-Profile/downloads', 'd3a'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/Product Profile/ethics_values',
-        component: ComponentCreator('/docs/Product Profile/ethics_values', '38b'),
+        path: '/docs/Product-Profile/ethics_values',
+        component: ComponentCreator('/docs/Product-Profile/ethics_values', 'a18'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/Product Profile/features',
-        component: ComponentCreator('/docs/Product Profile/features', 'f99'),
+        path: '/docs/Product-Profile/features',
+        component: ComponentCreator('/docs/Product-Profile/features', 'e75'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/Product Profile/packages_pricing',
-        component: ComponentCreator('/docs/Product Profile/packages_pricing', '73c'),
+        path: '/docs/Product-Profile/packages_pricing',
+        component: ComponentCreator('/docs/Product-Profile/packages_pricing', '550'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/Product Profile/product_information',
-        component: ComponentCreator('/docs/Product Profile/product_information', 'fd1'),
+        path: '/docs/Product-Profile/product_information',
+        component: ComponentCreator('/docs/Product-Profile/product_information', '90b'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/Product Profile/screenshots',
-        component: ComponentCreator('/docs/Product Profile/screenshots', '357'),
+        path: '/docs/Product-Profile/screenshots',
+        component: ComponentCreator('/docs/Product-Profile/screenshots', '40b'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/Product Profile/videos',
-        component: ComponentCreator('/docs/Product Profile/videos', '04a'),
+        path: '/docs/Product-Profile/videos',
+        component: ComponentCreator('/docs/Product-Profile/videos', '026'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
@@ -233,32 +233,32 @@ export default [
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/Review Management/campaign_dashboard',
-        component: ComponentCreator('/docs/Review Management/campaign_dashboard', 'ad7'),
+        path: '/docs/Review-Management/campaign_dashboard',
+        component: ComponentCreator('/docs/Review-Management/campaign_dashboard', 'ffb'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/Review Management/custom_questions',
-        component: ComponentCreator('/docs/Review Management/custom_questions', '4cd'),
+        path: '/docs/Review-Management/custom_questions',
+        component: ComponentCreator('/docs/Review-Management/custom_questions', 'b99'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/Review Management/references-from-reviews',
-        component: ComponentCreator('/docs/Review Management/references-from-reviews', '0b4'),
+        path: '/docs/Review-Management/references-from-reviews',
+        component: ComponentCreator('/docs/Review-Management/references-from-reviews', 'd3c'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/Review Management/review_campaigns',
-        component: ComponentCreator('/docs/Review Management/review_campaigns', '56b'),
+        path: '/docs/Review-Management/review_campaigns',
+        component: ComponentCreator('/docs/Review-Management/review_campaigns', '878'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/Review Management/review-activity',
-        component: ComponentCreator('/docs/Review Management/review-activity', 'd5b'),
+        path: '/docs/Review-Management/review-activity',
+        component: ComponentCreator('/docs/Review-Management/review-activity', '47e'),
         exact: true,
         sidebar: "tutorialSidebar"
       },

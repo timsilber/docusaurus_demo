@@ -51,50 +51,50 @@
           {
             "type": "link",
             "label": "discussions",
-            "href": "/docs/Product Profile/discussions",
-            "docId": "Product Profile/discussions"
+            "href": "/docs/Product-Profile/discussions",
+            "docId": "Product-Profile/discussions"
           },
           {
             "type": "link",
             "label": "downloads",
-            "href": "/docs/Product Profile/downloads",
-            "docId": "Product Profile/downloads"
+            "href": "/docs/Product-Profile/downloads",
+            "docId": "Product-Profile/downloads"
           },
           {
             "type": "link",
             "label": "ethics_values",
-            "href": "/docs/Product Profile/ethics_values",
-            "docId": "Product Profile/ethics_values"
+            "href": "/docs/Product-Profile/ethics_values",
+            "docId": "Product-Profile/ethics_values"
           },
           {
             "type": "link",
             "label": "features",
-            "href": "/docs/Product Profile/features",
-            "docId": "Product Profile/features"
+            "href": "/docs/Product-Profile/features",
+            "docId": "Product-Profile/features"
           },
           {
             "type": "link",
             "label": "packages_pricing",
-            "href": "/docs/Product Profile/packages_pricing",
-            "docId": "Product Profile/packages_pricing"
+            "href": "/docs/Product-Profile/packages_pricing",
+            "docId": "Product-Profile/packages_pricing"
           },
           {
             "type": "link",
             "label": "product_information",
-            "href": "/docs/Product Profile/product_information",
-            "docId": "Product Profile/product_information"
+            "href": "/docs/Product-Profile/product_information",
+            "docId": "Product-Profile/product_information"
           },
           {
             "type": "link",
             "label": "screenshots",
-            "href": "/docs/Product Profile/screenshots",
-            "docId": "Product Profile/screenshots"
+            "href": "/docs/Product-Profile/screenshots",
+            "docId": "Product-Profile/screenshots"
           },
           {
             "type": "link",
             "label": "videos",
-            "href": "/docs/Product Profile/videos",
-            "docId": "Product Profile/videos"
+            "href": "/docs/Product-Profile/videos",
+            "docId": "Product-Profile/videos"
           }
         ],
         "href": "/docs/category/product-profile"
@@ -114,32 +114,32 @@
           {
             "type": "link",
             "label": "campaign_dashboard",
-            "href": "/docs/Review Management/campaign_dashboard",
-            "docId": "Review Management/campaign_dashboard"
+            "href": "/docs/Review-Management/campaign_dashboard",
+            "docId": "Review-Management/campaign_dashboard"
           },
           {
             "type": "link",
             "label": "custom_questions",
-            "href": "/docs/Review Management/custom_questions",
-            "docId": "Review Management/custom_questions"
+            "href": "/docs/Review-Management/custom_questions",
+            "docId": "Review-Management/custom_questions"
           },
           {
             "type": "link",
             "label": "references-from-reviews",
-            "href": "/docs/Review Management/references-from-reviews",
-            "docId": "Review Management/references-from-reviews"
+            "href": "/docs/Review-Management/references-from-reviews",
+            "docId": "Review-Management/references-from-reviews"
           },
           {
             "type": "link",
             "label": "review-activity",
-            "href": "/docs/Review Management/review-activity",
-            "docId": "Review Management/review-activity"
+            "href": "/docs/Review-Management/review-activity",
+            "docId": "Review-Management/review-activity"
           },
           {
             "type": "link",
             "label": "review_campaigns",
-            "href": "/docs/Review Management/review_campaigns",
-            "docId": "Review Management/review_campaigns"
+            "href": "/docs/Review-Management/review_campaigns",
+            "docId": "Review-Management/review_campaigns"
           }
         ],
         "href": "/docs/category/review-management"
@@ -396,50 +396,50 @@
       "description": "Notifications enables you to take immediate action on expiring landing pages, new reviews, and more by offering personalized updates for your products listed on G2.",
       "sidebar": "tutorialSidebar"
     },
-    "Product Profile/discussions": {
-      "id": "Product Profile/discussions",
+    "Product-Profile/discussions": {
+      "id": "Product-Profile/discussions",
       "title": "discussions",
       "description": "Metadata_Start",
       "sidebar": "tutorialSidebar"
     },
-    "Product Profile/downloads": {
-      "id": "Product Profile/downloads",
+    "Product-Profile/downloads": {
+      "id": "Product-Profile/downloads",
       "title": "downloads",
       "description": "## Metadata_Start",
       "sidebar": "tutorialSidebar"
     },
-    "Product Profile/ethics_values": {
-      "id": "Product Profile/ethics_values",
+    "Product-Profile/ethics_values": {
+      "id": "Product-Profile/ethics_values",
       "title": "ethics_values",
       "description": "Metadata_Start",
       "sidebar": "tutorialSidebar"
     },
-    "Product Profile/features": {
-      "id": "Product Profile/features",
+    "Product-Profile/features": {
+      "id": "Product-Profile/features",
       "title": "features",
       "description": "Metadata_Start",
       "sidebar": "tutorialSidebar"
     },
-    "Product Profile/packages_pricing": {
-      "id": "Product Profile/packages_pricing",
+    "Product-Profile/packages_pricing": {
+      "id": "Product-Profile/packages_pricing",
       "title": "packages_pricing",
       "description": "## Metadata_Start",
       "sidebar": "tutorialSidebar"
     },
-    "Product Profile/product_information": {
-      "id": "Product Profile/product_information",
+    "Product-Profile/product_information": {
+      "id": "Product-Profile/product_information",
       "title": "product_information",
       "description": "## Metadata_Start",
       "sidebar": "tutorialSidebar"
     },
-    "Product Profile/screenshots": {
-      "id": "Product Profile/screenshots",
+    "Product-Profile/screenshots": {
+      "id": "Product-Profile/screenshots",
       "title": "screenshots",
       "description": "Metadata_Start",
       "sidebar": "tutorialSidebar"
     },
-    "Product Profile/videos": {
-      "id": "Product Profile/videos",
+    "Product-Profile/videos": {
+      "id": "Product-Profile/videos",
       "title": "videos",
       "description": "Metadata_Start",
       "sidebar": "tutorialSidebar"
@@ -450,32 +450,32 @@
       "description": "",
       "sidebar": "tutorialSidebar"
     },
-    "Review Management/campaign_dashboard": {
-      "id": "Review Management/campaign_dashboard",
+    "Review-Management/campaign_dashboard": {
+      "id": "Review-Management/campaign_dashboard",
       "title": "campaign_dashboard",
       "description": "## Metadata_Start",
       "sidebar": "tutorialSidebar"
     },
-    "Review Management/custom_questions": {
-      "id": "Review Management/custom_questions",
+    "Review-Management/custom_questions": {
+      "id": "Review-Management/custom_questions",
       "title": "custom_questions",
       "description": "{/ 7153591b-a402-4b33-8b41-778ee3961c9a /}",
       "sidebar": "tutorialSidebar"
     },
-    "Review Management/references-from-reviews": {
-      "id": "Review Management/references-from-reviews",
+    "Review-Management/references-from-reviews": {
+      "id": "Review-Management/references-from-reviews",
       "title": "references-from-reviews",
       "description": "References from Reviews enables you to easily connect with reviewers who agree to be a reference for your product. Use this page to access the contact information for your references to provide to prospects, or to discuss future advertising and promotional opportunities with your references directly.",
       "sidebar": "tutorialSidebar"
     },
-    "Review Management/review_campaigns": {
-      "id": "Review Management/review_campaigns",
+    "Review-Management/review_campaigns": {
+      "id": "Review-Management/review_campaigns",
       "title": "review_campaigns",
       "description": "{/ 28258a6f-3181-4644-b415-af3f1809e4cb /}",
       "sidebar": "tutorialSidebar"
     },
-    "Review Management/review-activity": {
-      "id": "Review Management/review-activity",
+    "Review-Management/review-activity": {
+      "id": "Review-Management/review-activity",
       "title": "review-activity",
       "description": "The Review Activity page helps you monitor, analyze, and respond to your product’s G2 reviews directly from my.G2. Review Activity enables you to find reviews and take action, from setting up email notifications to using review filters.",
       "sidebar": "tutorialSidebar"

@@ -2,8 +2,8 @@
   "docusaurus-lunr-search": {
     "default": {
       "fileNames": {
-        "searchDoc": "search-doc-1669690581259.json",
-        "lunrIndex": "lunr-index-1669690581259.json"
+        "searchDoc": "search-doc-1669690872134.json",
+        "lunrIndex": "lunr-index-1669690872134.json"
       }
     }
   },
@@ -99,43 +99,43 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Product Profile/discussions",
-              "path": "/docs/Product Profile/discussions",
+              "id": "Product-Profile/discussions",
+              "path": "/docs/Product-Profile/discussions",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Product Profile/downloads",
-              "path": "/docs/Product Profile/downloads",
+              "id": "Product-Profile/downloads",
+              "path": "/docs/Product-Profile/downloads",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Product Profile/ethics_values",
-              "path": "/docs/Product Profile/ethics_values",
+              "id": "Product-Profile/ethics_values",
+              "path": "/docs/Product-Profile/ethics_values",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Product Profile/features",
-              "path": "/docs/Product Profile/features",
+              "id": "Product-Profile/features",
+              "path": "/docs/Product-Profile/features",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Product Profile/packages_pricing",
-              "path": "/docs/Product Profile/packages_pricing",
+              "id": "Product-Profile/packages_pricing",
+              "path": "/docs/Product-Profile/packages_pricing",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Product Profile/product_information",
-              "path": "/docs/Product Profile/product_information",
+              "id": "Product-Profile/product_information",
+              "path": "/docs/Product-Profile/product_information",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Product Profile/screenshots",
-              "path": "/docs/Product Profile/screenshots",
+              "id": "Product-Profile/screenshots",
+              "path": "/docs/Product-Profile/screenshots",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Product Profile/videos",
-              "path": "/docs/Product Profile/videos",
+              "id": "Product-Profile/videos",
+              "path": "/docs/Product-Profile/videos",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -144,28 +144,28 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Review Management/campaign_dashboard",
-              "path": "/docs/Review Management/campaign_dashboard",
+              "id": "Review-Management/campaign_dashboard",
+              "path": "/docs/Review-Management/campaign_dashboard",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Review Management/custom_questions",
-              "path": "/docs/Review Management/custom_questions",
+              "id": "Review-Management/custom_questions",
+              "path": "/docs/Review-Management/custom_questions",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Review Management/references-from-reviews",
-              "path": "/docs/Review Management/references-from-reviews",
+              "id": "Review-Management/references-from-reviews",
+              "path": "/docs/Review-Management/references-from-reviews",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Review Management/review_campaigns",
-              "path": "/docs/Review Management/review_campaigns",
+              "id": "Review-Management/review_campaigns",
+              "path": "/docs/Review-Management/review_campaigns",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Review Management/review-activity",
-              "path": "/docs/Review Management/review-activity",
+              "id": "Review-Management/review-activity",
+              "path": "/docs/Review-Management/review-activity",
               "sidebar": "tutorialSidebar"
             },
             {
