@@ -1,0 +1,23 @@
+{
+  "unversionedId": "my-g2/test",
+  "id": "my-g2/test",
+  "title": "test",
+  "description": "ljl;jlk;kl",
+  "source": "@site/docs/my-g2/test.md",
+  "sourceDirName": "my-g2",
+  "slug": "/my-g2/test",
+  "permalink": "/docs/my-g2/test",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "review_campaigns",
+    "permalink": "/docs/my-g2/review-management/review_campaigns"
+  },
+  "next": {
+    "title": "profile-activity",
+    "permalink": "/docs/profile-activity"
+  }
+}

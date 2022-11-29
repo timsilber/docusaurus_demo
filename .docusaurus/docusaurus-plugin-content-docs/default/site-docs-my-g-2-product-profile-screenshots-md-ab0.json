@@ -1,0 +1,23 @@
+{
+  "unversionedId": "my-g2/product-profile/screenshots",
+  "id": "my-g2/product-profile/screenshots",
+  "title": "screenshots",
+  "description": "Metadata_Start",
+  "source": "@site/docs/my-g2/product-profile/screenshots.md",
+  "sourceDirName": "my-g2/product-profile",
+  "slug": "/my-g2/product-profile/screenshots",
+  "permalink": "/docs/my-g2/product-profile/screenshots",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "product_information",
+    "permalink": "/docs/my-g2/product-profile/product_information"
+  },
+  "next": {
+    "title": "videos",
+    "permalink": "/docs/my-g2/product-profile/videos"
+  }
+}

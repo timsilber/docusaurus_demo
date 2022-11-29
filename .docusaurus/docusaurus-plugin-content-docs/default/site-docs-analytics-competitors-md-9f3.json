@@ -1,0 +1,23 @@
+{
+  "unversionedId": "Analytics/competitors",
+  "id": "Analytics/competitors",
+  "title": "competitors",
+  "description": "The Competitors tab helps you understand your performance on G2 by reporting the key factors influencing your product’s G2 Score alongside the same data for up to five of your competitors.",
+  "source": "@site/docs/Analytics/competitors.md",
+  "sourceDirName": "Analytics",
+  "slug": "/Analytics/competitors",
+  "permalink": "/docs/Analytics/competitors",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Analytics",
+    "permalink": "/docs/category/analytics"
+  },
+  "next": {
+    "title": "profile-activity",
+    "permalink": "/docs/Analytics/profile-activity"
+  }
+}

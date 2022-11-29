@@ -1,0 +1,23 @@
+{
+  "unversionedId": "Marketing content/g2_badges",
+  "id": "Marketing content/g2_badges",
+  "title": "g2_badges",
+  "description": "G2 Badges provide a way to showcase your product’s performance relative to your competitors. Visitors who see a G2 Badge on your site are more likely to trust your product and convert to a sale. Badges link directly to your G2 product profile when selected.",
+  "source": "@site/docs/Marketing content/g2_badges.md",
+  "sourceDirName": "Marketing content",
+  "slug": "/Marketing content/g2_badges",
+  "permalink": "/docs/Marketing content/g2_badges",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "documents",
+    "permalink": "/docs/Marketing content/documents"
+  },
+  "next": {
+    "title": "reference_pages",
+    "permalink": "/docs/Marketing content/reference_pages"
+  }
+}

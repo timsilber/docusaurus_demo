@@ -1,0 +1,23 @@
+{
+  "unversionedId": "my-g2/marketing-content/widgets",
+  "id": "my-g2/marketing-content/widgets",
+  "title": "widgets",
+  "description": "## Metadata_Start",
+  "source": "@site/docs/my-g2/marketing-content/widgets.md",
+  "sourceDirName": "my-g2/marketing-content",
+  "slug": "/my-g2/marketing-content/widgets",
+  "permalink": "/docs/my-g2/marketing-content/widgets",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "report-library",
+    "permalink": "/docs/my-g2/marketing-content/report-library"
+  },
+  "next": {
+    "title": "notifications",
+    "permalink": "/docs/my-g2/notifications"
+  }
+}

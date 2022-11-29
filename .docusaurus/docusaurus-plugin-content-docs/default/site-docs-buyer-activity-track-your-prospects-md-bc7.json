@@ -1,0 +1,23 @@
+{
+  "unversionedId": "Buyer activity/track_your_prospects",
+  "id": "Buyer activity/track_your_prospects",
+  "title": "track_your_prospects",
+  "description": "# Track Your Prospects",
+  "source": "@site/docs/Buyer activity/track_your_prospects.md",
+  "sourceDirName": "Buyer activity",
+  "slug": "/Buyer activity/track_your_prospects",
+  "permalink": "/docs/Buyer activity/track_your_prospects",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "leads",
+    "permalink": "/docs/Buyer activity/leads"
+  },
+  "next": {
+    "title": "Product Profile",
+    "permalink": "/docs/category/product-profile"
+  }
+}

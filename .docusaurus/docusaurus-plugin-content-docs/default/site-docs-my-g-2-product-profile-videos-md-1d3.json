@@ -1,0 +1,23 @@
+{
+  "unversionedId": "my-g2/product-profile/videos",
+  "id": "my-g2/product-profile/videos",
+  "title": "videos",
+  "description": "Metadata_Start",
+  "source": "@site/docs/my-g2/product-profile/videos.md",
+  "sourceDirName": "my-g2/product-profile",
+  "slug": "/my-g2/product-profile/videos",
+  "permalink": "/docs/my-g2/product-profile/videos",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "screenshots",
+    "permalink": "/docs/my-g2/product-profile/screenshots"
+  },
+  "next": {
+    "title": "campaign_dashboard",
+    "permalink": "/docs/my-g2/review-management/campaign_dashboard"
+  }
+}

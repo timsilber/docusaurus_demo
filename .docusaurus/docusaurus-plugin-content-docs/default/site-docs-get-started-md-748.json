@@ -1,0 +1,25 @@
+{
+  "unversionedId": "get-started",
+  "id": "get-started",
+  "title": "Get started",
+  "description": "Welcome to G2—the world’s leading platform for buyers seeking genuine reviews about software and services. G2 transforms the way you identify and engage with buyers so that you can reach out to them with the right message at the right time. Complete the milestones below to help you make the most of G2's marketing and selling solutions.",
+  "source": "@site/docs/get-started.md",
+  "sourceDirName": ".",
+  "slug": "/get-started",
+  "permalink": "/docs/get-started",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 10,
+  "frontMatter": {
+    "title": "Get started",
+    "sidebar_label": "Get started with G2",
+    "id": "get-started",
+    "sidebar_position": 10
+  },
+  "sidebar": "tutorialSidebar",
+  "next": {
+    "title": "Buyer Activity",
+    "permalink": "/docs/category/buyer-activity"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "Product Profile/ethics_values",
+  "id": "Product Profile/ethics_values",
+  "title": "ethics_values",
+  "description": "Metadata_Start",
+  "source": "@site/docs/Product Profile/ethics_values.md",
+  "sourceDirName": "Product Profile",
+  "slug": "/Product Profile/ethics_values",
+  "permalink": "/docs/Product Profile/ethics_values",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "downloads",
+    "permalink": "/docs/Product Profile/downloads"
+  },
+  "next": {
+    "title": "features",
+    "permalink": "/docs/Product Profile/features"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "my-g2/product-profile/discussions",
+  "id": "my-g2/product-profile/discussions",
+  "title": "discussions",
+  "description": "Metadata_Start",
+  "source": "@site/docs/my-g2/product-profile/discussions.md",
+  "sourceDirName": "my-g2/product-profile",
+  "slug": "/my-g2/product-profile/discussions",
+  "permalink": "/docs/my-g2/product-profile/discussions",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "notifications",
+    "permalink": "/docs/my-g2/notifications"
+  },
+  "next": {
+    "title": "downloads",
+    "permalink": "/docs/my-g2/product-profile/downloads"
+  }
+}

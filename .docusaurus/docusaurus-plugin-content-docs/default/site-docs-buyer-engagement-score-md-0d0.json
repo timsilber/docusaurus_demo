@@ -1,0 +1,27 @@
+{
+  "unversionedId": "buyer_engagement_score",
+  "id": "buyer_engagement_score",
+  "title": "Buyer Engagement score",
+  "description": "The Buyer Engagement score provides recommended tasks to complete to ensure that you are engaging appropriately with potential buyers via G2. The Buyer Engagement score also measures your progress in completing those tasks.",
+  "source": "@site/docs/buyer_engagement_score.md",
+  "sourceDirName": ".",
+  "slug": "/buyer_engagement_score",
+  "permalink": "/docs/buyer_engagement_score",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 90,
+  "frontMatter": {
+    "sidebar_label": "Buyer Engagement score",
+    "sidebar_position": 90
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Notifications",
+    "permalink": "/docs/notifications"
+  },
+  "next": {
+    "title": "Webhooks",
+    "permalink": "/docs/category/webhooks"
+  }
+}

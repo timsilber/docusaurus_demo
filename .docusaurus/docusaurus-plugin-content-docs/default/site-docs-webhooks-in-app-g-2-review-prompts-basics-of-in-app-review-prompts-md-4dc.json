@@ -1,0 +1,23 @@
+{
+  "unversionedId": "Webhooks/in-app-g2-review-prompts/basics_of_in_app_review_prompts",
+  "id": "Webhooks/in-app-g2-review-prompts/basics_of_in_app_review_prompts",
+  "title": "basics_of_in_app_review_prompts",
+  "description": "{/ 21958e40-b0dc-4d0a-924e-556f0611461e /}",
+  "source": "@site/docs/Webhooks/in-app-g2-review-prompts/basics_of_in_app_review_prompts.md",
+  "sourceDirName": "Webhooks/in-app-g2-review-prompts",
+  "slug": "/Webhooks/in-app-g2-review-prompts/basics_of_in_app_review_prompts",
+  "permalink": "/docs/Webhooks/in-app-g2-review-prompts/basics_of_in_app_review_prompts",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "salesforce_crm_webhook",
+    "permalink": "/docs/Webhooks/g2-leads-webhooks/salesforce_crm_webhook"
+  },
+  "next": {
+    "title": "implementation_in_app_g2_review",
+    "permalink": "/docs/Webhooks/in-app-g2-review-prompts/implementation_in_app_g2_review"
+  }
+}

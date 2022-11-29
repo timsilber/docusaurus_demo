@@ -1,0 +1,23 @@
+{
+  "unversionedId": "Buyer activity/leads",
+  "id": "Buyer activity/leads",
+  "title": "leads",
+  "description": "G2 leads are generated when buyers access gated content such as videos and downloads on your G2 product profile page, request that your organization contact them, or ask for a custom quote. These experiences require the buyer to submit contact details and other information via your lead form, which means leads are buyers that you know are interested in your product and are willing to be contacted directly by your organization.",
+  "source": "@site/docs/Buyer activity/leads.md",
+  "sourceDirName": "Buyer activity",
+  "slug": "/Buyer activity/leads",
+  "permalink": "/docs/Buyer activity/leads",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "buyer-intent",
+    "permalink": "/docs/Buyer activity/buyer-intent"
+  },
+  "next": {
+    "title": "track_your_prospects",
+    "permalink": "/docs/Buyer activity/track_your_prospects"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "my-g2/product-profile/packages_pricing",
+  "id": "my-g2/product-profile/packages_pricing",
+  "title": "packages_pricing",
+  "description": "## Metadata_Start",
+  "source": "@site/docs/my-g2/product-profile/packages_pricing.md",
+  "sourceDirName": "my-g2/product-profile",
+  "slug": "/my-g2/product-profile/packages_pricing",
+  "permalink": "/docs/my-g2/product-profile/packages_pricing",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "features",
+    "permalink": "/docs/my-g2/product-profile/features"
+  },
+  "next": {
+    "title": "product_information",
+    "permalink": "/docs/my-g2/product-profile/product_information"
+  }
+}

@@ -18,229 +18,820 @@
           "contentPathLocalized": "/Users/timsilber/repos/docusaurus_demo/i18n/en/docusaurus-plugin-content-docs/current",
           "docs": [
             {
-              "unversionedId": "intro",
-              "id": "intro",
-              "title": "Tutorial Intro",
-              "description": "Let's discover Docusaurus in less than 5 minutes.",
-              "source": "@site/docs/intro.md",
+              "unversionedId": "Analytics/competitors",
+              "id": "Analytics/competitors",
+              "title": "competitors",
+              "description": "The Competitors tab helps you understand your performance on G2 by reporting the key factors influencing your product’s G2 Score alongside the same data for up to five of your competitors.",
+              "source": "@site/docs/Analytics/competitors.md",
+              "sourceDirName": "Analytics",
+              "slug": "/Analytics/competitors",
+              "permalink": "/docs/Analytics/competitors",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Analytics",
+                "permalink": "/docs/category/analytics"
+              },
+              "next": {
+                "title": "profile-activity",
+                "permalink": "/docs/Analytics/profile-activity"
+              }
+            },
+            {
+              "unversionedId": "Analytics/profile-activity",
+              "id": "Analytics/profile-activity",
+              "title": "profile-activity",
+              "description": "The Profile Activity page collects several types of traffic analytics measuring your product’s performance on G2, enabling you to track activity changes over time and compare your traffic to your competitors.",
+              "source": "@site/docs/Analytics/profile-activity.md",
+              "sourceDirName": "Analytics",
+              "slug": "/Analytics/profile-activity",
+              "permalink": "/docs/Analytics/profile-activity",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "competitors",
+                "permalink": "/docs/Analytics/competitors"
+              },
+              "next": {
+                "title": "Notifications",
+                "permalink": "/docs/notifications"
+              }
+            },
+            {
+              "unversionedId": "Buyer activity/buyer-intent",
+              "id": "Buyer activity/buyer-intent",
+              "title": "buyer-intent",
+              "description": "G2 Buyer Intent captures enriched data about buyers researching your product across G2. Buyer Intent signals are triggered by a variety of actions, including interacting with your product profile page, comparing your product to a competitor, or viewing alternatives to a product in a shared G2 product category. This data enables your sales, marketing, and customer success teams to identify where an organization is on their buyer journey.",
+              "source": "@site/docs/Buyer activity/buyer-intent.md",
+              "sourceDirName": "Buyer activity",
+              "slug": "/Buyer activity/buyer-intent",
+              "permalink": "/docs/Buyer activity/buyer-intent",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Buyer Activity",
+                "permalink": "/docs/category/buyer-activity"
+              },
+              "next": {
+                "title": "leads",
+                "permalink": "/docs/Buyer activity/leads"
+              }
+            },
+            {
+              "unversionedId": "Buyer activity/leads",
+              "id": "Buyer activity/leads",
+              "title": "leads",
+              "description": "G2 leads are generated when buyers access gated content such as videos and downloads on your G2 product profile page, request that your organization contact them, or ask for a custom quote. These experiences require the buyer to submit contact details and other information via your lead form, which means leads are buyers that you know are interested in your product and are willing to be contacted directly by your organization.",
+              "source": "@site/docs/Buyer activity/leads.md",
+              "sourceDirName": "Buyer activity",
+              "slug": "/Buyer activity/leads",
+              "permalink": "/docs/Buyer activity/leads",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "buyer-intent",
+                "permalink": "/docs/Buyer activity/buyer-intent"
+              },
+              "next": {
+                "title": "track_your_prospects",
+                "permalink": "/docs/Buyer activity/track_your_prospects"
+              }
+            },
+            {
+              "unversionedId": "Buyer activity/track_your_prospects",
+              "id": "Buyer activity/track_your_prospects",
+              "title": "track_your_prospects",
+              "description": "# Track Your Prospects",
+              "source": "@site/docs/Buyer activity/track_your_prospects.md",
+              "sourceDirName": "Buyer activity",
+              "slug": "/Buyer activity/track_your_prospects",
+              "permalink": "/docs/Buyer activity/track_your_prospects",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "leads",
+                "permalink": "/docs/Buyer activity/leads"
+              },
+              "next": {
+                "title": "Product Profile",
+                "permalink": "/docs/category/product-profile"
+              }
+            },
+            {
+              "unversionedId": "buyer_engagement_score",
+              "id": "buyer_engagement_score",
+              "title": "Buyer Engagement score",
+              "description": "The Buyer Engagement score provides recommended tasks to complete to ensure that you are engaging appropriately with potential buyers via G2. The Buyer Engagement score also measures your progress in completing those tasks.",
+              "source": "@site/docs/buyer_engagement_score.md",
               "sourceDirName": ".",
-              "slug": "/intro",
-              "permalink": "/docs/intro",
+              "slug": "/buyer_engagement_score",
+              "permalink": "/docs/buyer_engagement_score",
               "draft": false,
               "tags": [],
               "version": "current",
-              "sidebarPosition": 1,
+              "sidebarPosition": 90,
               "frontMatter": {
-                "sidebar_position": 1
-              },
-              "sidebar": "tutorialSidebar",
-              "next": {
-                "title": "Tutorial - Basics",
-                "permalink": "/docs/category/tutorial---basics"
-              }
-            },
-            {
-              "unversionedId": "tutorial-basics/congratulations",
-              "id": "tutorial-basics/congratulations",
-              "title": "Congratulations!",
-              "description": "You have just learned the basics of Docusaurus and made some changes to the initial template.",
-              "source": "@site/docs/tutorial-basics/congratulations.md",
-              "sourceDirName": "tutorial-basics",
-              "slug": "/tutorial-basics/congratulations",
-              "permalink": "/docs/tutorial-basics/congratulations",
-              "draft": false,
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 6,
-              "frontMatter": {
-                "sidebar_position": 6
+                "sidebar_label": "Buyer Engagement score",
+                "sidebar_position": 90
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Deploy your site",
-                "permalink": "/docs/tutorial-basics/deploy-your-site"
+                "title": "Notifications",
+                "permalink": "/docs/notifications"
               },
               "next": {
-                "title": "Tutorial - Extras",
-                "permalink": "/docs/category/tutorial---extras"
+                "title": "Webhooks",
+                "permalink": "/docs/category/webhooks"
               }
             },
             {
-              "unversionedId": "tutorial-basics/create-a-blog-post",
-              "id": "tutorial-basics/create-a-blog-post",
-              "title": "Create a Blog Post",
-              "description": "Docusaurus creates a page for each blog post, but also a blog index page, a tag system, an RSS feed...",
-              "source": "@site/docs/tutorial-basics/create-a-blog-post.md",
-              "sourceDirName": "tutorial-basics",
-              "slug": "/tutorial-basics/create-a-blog-post",
-              "permalink": "/docs/tutorial-basics/create-a-blog-post",
+              "unversionedId": "G2 API",
+              "id": "G2 API",
+              "title": "G2 API",
+              "description": "",
+              "source": "@site/docs/G2 API.md",
+              "sourceDirName": ".",
+              "slug": "/G2 API",
+              "permalink": "/docs/G2 API",
               "draft": false,
               "tags": [],
               "version": "current",
-              "sidebarPosition": 3,
+              "sidebarPosition": 100,
               "frontMatter": {
-                "sidebar_position": 3
+                "sidebar_label": "G2 API",
+                "sidebar_position": 100
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Create a Document",
-                "permalink": "/docs/tutorial-basics/create-a-document"
-              },
-              "next": {
-                "title": "Markdown Features",
-                "permalink": "/docs/tutorial-basics/markdown-features"
+                "title": "about-g2-integrations",
+                "permalink": "/docs/Integrations/about-g2-integrations"
               }
             },
             {
-              "unversionedId": "tutorial-basics/create-a-document",
-              "id": "tutorial-basics/create-a-document",
-              "title": "Create a Document",
-              "description": "Documents are groups of pages connected through:",
-              "source": "@site/docs/tutorial-basics/create-a-document.md",
-              "sourceDirName": "tutorial-basics",
-              "slug": "/tutorial-basics/create-a-document",
-              "permalink": "/docs/tutorial-basics/create-a-document",
+              "unversionedId": "get-started",
+              "id": "get-started",
+              "title": "Get started",
+              "description": "Welcome to G2—the world’s leading platform for buyers seeking genuine reviews about software and services. G2 transforms the way you identify and engage with buyers so that you can reach out to them with the right message at the right time. Complete the milestones below to help you make the most of G2's marketing and selling solutions.",
+              "source": "@site/docs/get-started.md",
+              "sourceDirName": ".",
+              "slug": "/get-started",
+              "permalink": "/docs/get-started",
               "draft": false,
               "tags": [],
               "version": "current",
-              "sidebarPosition": 2,
+              "sidebarPosition": 10,
               "frontMatter": {
-                "sidebar_position": 2
+                "title": "Get started",
+                "sidebar_label": "Get started with G2",
+                "id": "get-started",
+                "sidebar_position": 10
               },
               "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Create a Page",
-                "permalink": "/docs/tutorial-basics/create-a-page"
-              },
               "next": {
-                "title": "Create a Blog Post",
-                "permalink": "/docs/tutorial-basics/create-a-blog-post"
+                "title": "Buyer Activity",
+                "permalink": "/docs/category/buyer-activity"
               }
             },
             {
-              "unversionedId": "tutorial-basics/create-a-page",
-              "id": "tutorial-basics/create-a-page",
-              "title": "Create a Page",
-              "description": "Add Markdown or React files to src/pages to create a standalone page:",
-              "source": "@site/docs/tutorial-basics/create-a-page.md",
-              "sourceDirName": "tutorial-basics",
-              "slug": "/tutorial-basics/create-a-page",
-              "permalink": "/docs/tutorial-basics/create-a-page",
+              "unversionedId": "Integrations/about-g2-integrations",
+              "id": "Integrations/about-g2-integrations",
+              "title": "about-g2-integrations",
+              "description": "{/ 9f9dba51-b4e6-4c79-a27b-31cc5a6683f4 /}",
+              "source": "@site/docs/Integrations/about-g2-integrations.md",
+              "sourceDirName": "Integrations",
+              "slug": "/Integrations/about-g2-integrations",
+              "permalink": "/docs/Integrations/about-g2-integrations",
               "draft": false,
               "tags": [],
               "version": "current",
-              "sidebarPosition": 1,
-              "frontMatter": {
-                "sidebar_position": 1
-              },
+              "frontMatter": {},
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Tutorial - Basics",
-                "permalink": "/docs/category/tutorial---basics"
+                "title": "Integrations"
               },
               "next": {
-                "title": "Create a Document",
-                "permalink": "/docs/tutorial-basics/create-a-document"
+                "title": "G2 API",
+                "permalink": "/docs/G2 API"
               }
             },
             {
-              "unversionedId": "tutorial-basics/deploy-your-site",
-              "id": "tutorial-basics/deploy-your-site",
-              "title": "Deploy your site",
-              "description": "Docusaurus is a static-site-generator (also called Jamstack).",
-              "source": "@site/docs/tutorial-basics/deploy-your-site.md",
-              "sourceDirName": "tutorial-basics",
-              "slug": "/tutorial-basics/deploy-your-site",
-              "permalink": "/docs/tutorial-basics/deploy-your-site",
+              "unversionedId": "Marketing content/crowd_quotes",
+              "id": "Marketing content/crowd_quotes",
+              "title": "crowd_quotes",
+              "description": "Crowd Quotes provides a convenient way to supply your sales, marketing, and design teams with snippets of your G2 reviews. Use Crowd Quotes to build trust and improve your marketing campaigns by displaying rich-text reviews from real users of your products.",
+              "source": "@site/docs/Marketing content/crowd_quotes.md",
+              "sourceDirName": "Marketing content",
+              "slug": "/Marketing content/crowd_quotes",
+              "permalink": "/docs/Marketing content/crowd_quotes",
               "draft": false,
               "tags": [],
               "version": "current",
-              "sidebarPosition": 5,
-              "frontMatter": {
-                "sidebar_position": 5
-              },
+              "frontMatter": {},
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Markdown Features",
-                "permalink": "/docs/tutorial-basics/markdown-features"
+                "title": "Marketing Content",
+                "permalink": "/docs/category/marketing-content"
               },
               "next": {
-                "title": "Congratulations!",
-                "permalink": "/docs/tutorial-basics/congratulations"
+                "title": "documents",
+                "permalink": "/docs/Marketing content/documents"
               }
             },
             {
-              "unversionedId": "tutorial-basics/markdown-features",
-              "id": "tutorial-basics/markdown-features",
-              "title": "Markdown Features",
-              "description": "Docusaurus supports Markdown and a few additional features.",
-              "source": "@site/docs/tutorial-basics/markdown-features.mdx",
-              "sourceDirName": "tutorial-basics",
-              "slug": "/tutorial-basics/markdown-features",
-              "permalink": "/docs/tutorial-basics/markdown-features",
+              "unversionedId": "Marketing content/documents",
+              "id": "Marketing content/documents",
+              "title": "documents",
+              "description": "The Documents page enables you to track traffic to your G2 Reports, including Compare Reports, GridⓇ Reports, and Index Reports. Reports appear in the Documents page after you purchase a license.",
+              "source": "@site/docs/Marketing content/documents.md",
+              "sourceDirName": "Marketing content",
+              "slug": "/Marketing content/documents",
+              "permalink": "/docs/Marketing content/documents",
               "draft": false,
               "tags": [],
               "version": "current",
-              "sidebarPosition": 4,
-              "frontMatter": {
-                "sidebar_position": 4
-              },
+              "frontMatter": {},
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Create a Blog Post",
-                "permalink": "/docs/tutorial-basics/create-a-blog-post"
+                "title": "crowd_quotes",
+                "permalink": "/docs/Marketing content/crowd_quotes"
               },
               "next": {
-                "title": "Deploy your site",
-                "permalink": "/docs/tutorial-basics/deploy-your-site"
+                "title": "g2_badges",
+                "permalink": "/docs/Marketing content/g2_badges"
               }
             },
             {
-              "unversionedId": "tutorial-extras/manage-docs-versions",
-              "id": "tutorial-extras/manage-docs-versions",
-              "title": "Manage Docs Versions",
-              "description": "Docusaurus can manage multiple versions of your docs.",
-              "source": "@site/docs/tutorial-extras/manage-docs-versions.md",
-              "sourceDirName": "tutorial-extras",
-              "slug": "/tutorial-extras/manage-docs-versions",
-              "permalink": "/docs/tutorial-extras/manage-docs-versions",
+              "unversionedId": "Marketing content/g2_badges",
+              "id": "Marketing content/g2_badges",
+              "title": "g2_badges",
+              "description": "G2 Badges provide a way to showcase your product’s performance relative to your competitors. Visitors who see a G2 Badge on your site are more likely to trust your product and convert to a sale. Badges link directly to your G2 product profile when selected.",
+              "source": "@site/docs/Marketing content/g2_badges.md",
+              "sourceDirName": "Marketing content",
+              "slug": "/Marketing content/g2_badges",
+              "permalink": "/docs/Marketing content/g2_badges",
               "draft": false,
               "tags": [],
               "version": "current",
-              "sidebarPosition": 1,
-              "frontMatter": {
-                "sidebar_position": 1
-              },
+              "frontMatter": {},
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Tutorial - Extras",
-                "permalink": "/docs/category/tutorial---extras"
+                "title": "documents",
+                "permalink": "/docs/Marketing content/documents"
               },
               "next": {
-                "title": "Translate your site",
-                "permalink": "/docs/tutorial-extras/translate-your-site"
+                "title": "reference_pages",
+                "permalink": "/docs/Marketing content/reference_pages"
               }
             },
             {
-              "unversionedId": "tutorial-extras/translate-your-site",
-              "id": "tutorial-extras/translate-your-site",
-              "title": "Translate your site",
-              "description": "Let's translate docs/intro.md to French.",
-              "source": "@site/docs/tutorial-extras/translate-your-site.md",
-              "sourceDirName": "tutorial-extras",
-              "slug": "/tutorial-extras/translate-your-site",
-              "permalink": "/docs/tutorial-extras/translate-your-site",
+              "unversionedId": "Marketing content/reference_pages",
+              "id": "Marketing content/reference_pages",
+              "title": "reference_pages",
+              "description": "Reference Pages provide a simple way to highlight your favorite G2 reviews while crafting a shareable, branded web page that can be customized for your target audience.",
+              "source": "@site/docs/Marketing content/reference_pages.md",
+              "sourceDirName": "Marketing content",
+              "slug": "/Marketing content/reference_pages",
+              "permalink": "/docs/Marketing content/reference_pages",
               "draft": false,
               "tags": [],
               "version": "current",
-              "sidebarPosition": 2,
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "g2_badges",
+                "permalink": "/docs/Marketing content/g2_badges"
+              },
+              "next": {
+                "title": "report-library",
+                "permalink": "/docs/Marketing content/report-library"
+              }
+            },
+            {
+              "unversionedId": "Marketing content/report-library",
+              "id": "Marketing content/report-library",
+              "title": "report-library",
+              "description": "The Report Library page serves as a repository for all your G2 Reports, including GridⓇ Reports, Index Reports, and Compare Reports. Use the Report Library to easily find specific reports to share with individual customers or use as part of marketing campaigns.",
+              "source": "@site/docs/Marketing content/report-library.md",
+              "sourceDirName": "Marketing content",
+              "slug": "/Marketing content/report-library",
+              "permalink": "/docs/Marketing content/report-library",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "reference_pages",
+                "permalink": "/docs/Marketing content/reference_pages"
+              },
+              "next": {
+                "title": "widgets",
+                "permalink": "/docs/Marketing content/widgets"
+              }
+            },
+            {
+              "unversionedId": "Marketing content/widgets",
+              "id": "Marketing content/widgets",
+              "title": "widgets",
+              "description": "## Metadata_Start",
+              "source": "@site/docs/Marketing content/widgets.md",
+              "sourceDirName": "Marketing content",
+              "slug": "/Marketing content/widgets",
+              "permalink": "/docs/Marketing content/widgets",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "report-library",
+                "permalink": "/docs/Marketing content/report-library"
+              },
+              "next": {
+                "title": "Analytics",
+                "permalink": "/docs/category/analytics"
+              }
+            },
+            {
+              "unversionedId": "notifications",
+              "id": "notifications",
+              "title": "notifications",
+              "description": "Notifications enables you to take immediate action on expiring landing pages, new reviews, and more by offering personalized updates for your products listed on G2.",
+              "source": "@site/docs/notifications.md",
+              "sourceDirName": ".",
+              "slug": "/notifications",
+              "permalink": "/docs/notifications",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 80,
               "frontMatter": {
-                "sidebar_position": 2
+                "sidebar_label": "Notifications",
+                "sidebar_position": 80
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Manage Docs Versions",
-                "permalink": "/docs/tutorial-extras/manage-docs-versions"
+                "title": "profile-activity",
+                "permalink": "/docs/Analytics/profile-activity"
+              },
+              "next": {
+                "title": "Buyer Engagement score",
+                "permalink": "/docs/buyer_engagement_score"
+              }
+            },
+            {
+              "unversionedId": "Product Profile/discussions",
+              "id": "Product Profile/discussions",
+              "title": "discussions",
+              "description": "Metadata_Start",
+              "source": "@site/docs/Product Profile/discussions.md",
+              "sourceDirName": "Product Profile",
+              "slug": "/Product Profile/discussions",
+              "permalink": "/docs/Product Profile/discussions",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Product Profile",
+                "permalink": "/docs/category/product-profile"
+              },
+              "next": {
+                "title": "downloads",
+                "permalink": "/docs/Product Profile/downloads"
+              }
+            },
+            {
+              "unversionedId": "Product Profile/downloads",
+              "id": "Product Profile/downloads",
+              "title": "downloads",
+              "description": "## Metadata_Start",
+              "source": "@site/docs/Product Profile/downloads.md",
+              "sourceDirName": "Product Profile",
+              "slug": "/Product Profile/downloads",
+              "permalink": "/docs/Product Profile/downloads",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "discussions",
+                "permalink": "/docs/Product Profile/discussions"
+              },
+              "next": {
+                "title": "ethics_values",
+                "permalink": "/docs/Product Profile/ethics_values"
+              }
+            },
+            {
+              "unversionedId": "Product Profile/ethics_values",
+              "id": "Product Profile/ethics_values",
+              "title": "ethics_values",
+              "description": "Metadata_Start",
+              "source": "@site/docs/Product Profile/ethics_values.md",
+              "sourceDirName": "Product Profile",
+              "slug": "/Product Profile/ethics_values",
+              "permalink": "/docs/Product Profile/ethics_values",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "downloads",
+                "permalink": "/docs/Product Profile/downloads"
+              },
+              "next": {
+                "title": "features",
+                "permalink": "/docs/Product Profile/features"
+              }
+            },
+            {
+              "unversionedId": "Product Profile/features",
+              "id": "Product Profile/features",
+              "title": "features",
+              "description": "Metadata_Start",
+              "source": "@site/docs/Product Profile/features.md",
+              "sourceDirName": "Product Profile",
+              "slug": "/Product Profile/features",
+              "permalink": "/docs/Product Profile/features",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "ethics_values",
+                "permalink": "/docs/Product Profile/ethics_values"
+              },
+              "next": {
+                "title": "packages_pricing",
+                "permalink": "/docs/Product Profile/packages_pricing"
+              }
+            },
+            {
+              "unversionedId": "Product Profile/packages_pricing",
+              "id": "Product Profile/packages_pricing",
+              "title": "packages_pricing",
+              "description": "## Metadata_Start",
+              "source": "@site/docs/Product Profile/packages_pricing.md",
+              "sourceDirName": "Product Profile",
+              "slug": "/Product Profile/packages_pricing",
+              "permalink": "/docs/Product Profile/packages_pricing",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "features",
+                "permalink": "/docs/Product Profile/features"
+              },
+              "next": {
+                "title": "product_information",
+                "permalink": "/docs/Product Profile/product_information"
+              }
+            },
+            {
+              "unversionedId": "Product Profile/product_information",
+              "id": "Product Profile/product_information",
+              "title": "product_information",
+              "description": "## Metadata_Start",
+              "source": "@site/docs/Product Profile/product_information.md",
+              "sourceDirName": "Product Profile",
+              "slug": "/Product Profile/product_information",
+              "permalink": "/docs/Product Profile/product_information",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "packages_pricing",
+                "permalink": "/docs/Product Profile/packages_pricing"
+              },
+              "next": {
+                "title": "screenshots",
+                "permalink": "/docs/Product Profile/screenshots"
+              }
+            },
+            {
+              "unversionedId": "Product Profile/screenshots",
+              "id": "Product Profile/screenshots",
+              "title": "screenshots",
+              "description": "Metadata_Start",
+              "source": "@site/docs/Product Profile/screenshots.md",
+              "sourceDirName": "Product Profile",
+              "slug": "/Product Profile/screenshots",
+              "permalink": "/docs/Product Profile/screenshots",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "product_information",
+                "permalink": "/docs/Product Profile/product_information"
+              },
+              "next": {
+                "title": "videos",
+                "permalink": "/docs/Product Profile/videos"
+              }
+            },
+            {
+              "unversionedId": "Product Profile/videos",
+              "id": "Product Profile/videos",
+              "title": "videos",
+              "description": "Metadata_Start",
+              "source": "@site/docs/Product Profile/videos.md",
+              "sourceDirName": "Product Profile",
+              "slug": "/Product Profile/videos",
+              "permalink": "/docs/Product Profile/videos",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "screenshots",
+                "permalink": "/docs/Product Profile/screenshots"
+              },
+              "next": {
+                "title": "Product Suites",
+                "permalink": "/docs/Product Suites"
+              }
+            },
+            {
+              "unversionedId": "Product Suites",
+              "id": "Product Suites",
+              "title": "Product Suites",
+              "description": "",
+              "source": "@site/docs/Product Suites.md",
+              "sourceDirName": ".",
+              "slug": "/Product Suites",
+              "permalink": "/docs/Product Suites",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 21,
+              "frontMatter": {
+                "sidebar_label": "Product Suites",
+                "sidebar_position": 21
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "videos",
+                "permalink": "/docs/Product Profile/videos"
+              },
+              "next": {
+                "title": "Review Management",
+                "permalink": "/docs/category/review-management"
+              }
+            },
+            {
+              "unversionedId": "Review Management/campaign_dashboard",
+              "id": "Review Management/campaign_dashboard",
+              "title": "campaign_dashboard",
+              "description": "## Metadata_Start",
+              "source": "@site/docs/Review Management/campaign_dashboard.md",
+              "sourceDirName": "Review Management",
+              "slug": "/Review Management/campaign_dashboard",
+              "permalink": "/docs/Review Management/campaign_dashboard",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Review Management",
+                "permalink": "/docs/category/review-management"
+              },
+              "next": {
+                "title": "custom_questions",
+                "permalink": "/docs/Review Management/custom_questions"
+              }
+            },
+            {
+              "unversionedId": "Review Management/custom_questions",
+              "id": "Review Management/custom_questions",
+              "title": "custom_questions",
+              "description": "{/ 7153591b-a402-4b33-8b41-778ee3961c9a /}",
+              "source": "@site/docs/Review Management/custom_questions.md",
+              "sourceDirName": "Review Management",
+              "slug": "/Review Management/custom_questions",
+              "permalink": "/docs/Review Management/custom_questions",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "campaign_dashboard",
+                "permalink": "/docs/Review Management/campaign_dashboard"
+              },
+              "next": {
+                "title": "references-from-reviews",
+                "permalink": "/docs/Review Management/references-from-reviews"
+              }
+            },
+            {
+              "unversionedId": "Review Management/references-from-reviews",
+              "id": "Review Management/references-from-reviews",
+              "title": "references-from-reviews",
+              "description": "References from Reviews enables you to easily connect with reviewers who agree to be a reference for your product. Use this page to access the contact information for your references to provide to prospects, or to discuss future advertising and promotional opportunities with your references directly.",
+              "source": "@site/docs/Review Management/references-from-reviews.md",
+              "sourceDirName": "Review Management",
+              "slug": "/Review Management/references-from-reviews",
+              "permalink": "/docs/Review Management/references-from-reviews",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "custom_questions",
+                "permalink": "/docs/Review Management/custom_questions"
+              },
+              "next": {
+                "title": "review-activity",
+                "permalink": "/docs/Review Management/review-activity"
+              }
+            },
+            {
+              "unversionedId": "Review Management/review_campaigns",
+              "id": "Review Management/review_campaigns",
+              "title": "review_campaigns",
+              "description": "{/ 28258a6f-3181-4644-b415-af3f1809e4cb /}",
+              "source": "@site/docs/Review Management/review_campaigns.md",
+              "sourceDirName": "Review Management",
+              "slug": "/Review Management/review_campaigns",
+              "permalink": "/docs/Review Management/review_campaigns",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "review-activity",
+                "permalink": "/docs/Review Management/review-activity"
+              },
+              "next": {
+                "title": "Marketing Content",
+                "permalink": "/docs/category/marketing-content"
+              }
+            },
+            {
+              "unversionedId": "Review Management/review-activity",
+              "id": "Review Management/review-activity",
+              "title": "review-activity",
+              "description": "The Review Activity page helps you monitor, analyze, and respond to your product’s G2 reviews directly from my.G2. Review Activity enables you to find reviews and take action, from setting up email notifications to using review filters.",
+              "source": "@site/docs/Review Management/review-activity.md",
+              "sourceDirName": "Review Management",
+              "slug": "/Review Management/review-activity",
+              "permalink": "/docs/Review Management/review-activity",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "references-from-reviews",
+                "permalink": "/docs/Review Management/references-from-reviews"
+              },
+              "next": {
+                "title": "review_campaigns",
+                "permalink": "/docs/Review Management/review_campaigns"
+              }
+            },
+            {
+              "unversionedId": "Webhooks/g2-leads-webhooks/hubspot_webhook",
+              "id": "Webhooks/g2-leads-webhooks/hubspot_webhook",
+              "title": "hubspot_webhook",
+              "description": "## Metadata_Start",
+              "source": "@site/docs/Webhooks/g2-leads-webhooks/hubspot_webhook.md",
+              "sourceDirName": "Webhooks/g2-leads-webhooks",
+              "slug": "/Webhooks/g2-leads-webhooks/hubspot_webhook",
+              "permalink": "/docs/Webhooks/g2-leads-webhooks/hubspot_webhook",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Webhooks",
+                "permalink": "/docs/category/webhooks"
+              },
+              "next": {
+                "title": "salesforce_crm_webhook",
+                "permalink": "/docs/Webhooks/g2-leads-webhooks/salesforce_crm_webhook"
+              }
+            },
+            {
+              "unversionedId": "Webhooks/g2-leads-webhooks/salesforce_crm_webhook",
+              "id": "Webhooks/g2-leads-webhooks/salesforce_crm_webhook",
+              "title": "salesforce_crm_webhook",
+              "description": "## Metadata_Start",
+              "source": "@site/docs/Webhooks/g2-leads-webhooks/salesforce_crm_webhook.md",
+              "sourceDirName": "Webhooks/g2-leads-webhooks",
+              "slug": "/Webhooks/g2-leads-webhooks/salesforce_crm_webhook",
+              "permalink": "/docs/Webhooks/g2-leads-webhooks/salesforce_crm_webhook",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "hubspot_webhook",
+                "permalink": "/docs/Webhooks/g2-leads-webhooks/hubspot_webhook"
+              },
+              "next": {
+                "title": "basics_of_in_app_review_prompts",
+                "permalink": "/docs/Webhooks/in-app-g2-review-prompts/basics_of_in_app_review_prompts"
+              }
+            },
+            {
+              "unversionedId": "Webhooks/in-app-g2-review-prompts/basics_of_in_app_review_prompts",
+              "id": "Webhooks/in-app-g2-review-prompts/basics_of_in_app_review_prompts",
+              "title": "basics_of_in_app_review_prompts",
+              "description": "{/ 21958e40-b0dc-4d0a-924e-556f0611461e /}",
+              "source": "@site/docs/Webhooks/in-app-g2-review-prompts/basics_of_in_app_review_prompts.md",
+              "sourceDirName": "Webhooks/in-app-g2-review-prompts",
+              "slug": "/Webhooks/in-app-g2-review-prompts/basics_of_in_app_review_prompts",
+              "permalink": "/docs/Webhooks/in-app-g2-review-prompts/basics_of_in_app_review_prompts",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "salesforce_crm_webhook",
+                "permalink": "/docs/Webhooks/g2-leads-webhooks/salesforce_crm_webhook"
+              },
+              "next": {
+                "title": "implementation_in_app_g2_review",
+                "permalink": "/docs/Webhooks/in-app-g2-review-prompts/implementation_in_app_g2_review"
+              }
+            },
+            {
+              "unversionedId": "Webhooks/in-app-g2-review-prompts/implementation_in_app_g2_review",
+              "id": "Webhooks/in-app-g2-review-prompts/implementation_in_app_g2_review",
+              "title": "implementation_in_app_g2_review",
+              "description": "{/ 39b27bc3-da76-42f0-9c5e-2dce57bcffdc /}",
+              "source": "@site/docs/Webhooks/in-app-g2-review-prompts/implementation_in_app_g2_review.md",
+              "sourceDirName": "Webhooks/in-app-g2-review-prompts",
+              "slug": "/Webhooks/in-app-g2-review-prompts/implementation_in_app_g2_review",
+              "permalink": "/docs/Webhooks/in-app-g2-review-prompts/implementation_in_app_g2_review",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "basics_of_in_app_review_prompts",
+                "permalink": "/docs/Webhooks/in-app-g2-review-prompts/basics_of_in_app_review_prompts"
+              },
+              "next": {
+                "title": "prompt_guidelines",
+                "permalink": "/docs/Webhooks/in-app-g2-review-prompts/prompt_guidelines"
+              }
+            },
+            {
+              "unversionedId": "Webhooks/in-app-g2-review-prompts/prompt_guidelines",
+              "id": "Webhooks/in-app-g2-review-prompts/prompt_guidelines",
+              "title": "prompt_guidelines",
+              "description": "Metadata_Start",
+              "source": "@site/docs/Webhooks/in-app-g2-review-prompts/prompt_guidelines.md",
+              "sourceDirName": "Webhooks/in-app-g2-review-prompts",
+              "slug": "/Webhooks/in-app-g2-review-prompts/prompt_guidelines",
+              "permalink": "/docs/Webhooks/in-app-g2-review-prompts/prompt_guidelines",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "implementation_in_app_g2_review",
+                "permalink": "/docs/Webhooks/in-app-g2-review-prompts/implementation_in_app_g2_review"
+              },
+              "next": {
+                "title": "Integrations"
               }
             }
           ],
@@ -249,66 +840,259 @@
             "tutorialSidebar": [
               {
                 "type": "doc",
-                "id": "intro"
+                "id": "get-started",
+                "label": "Get started with G2"
               },
               {
                 "type": "category",
-                "label": "Tutorial - Basics",
+                "label": "Buyer Activity",
                 "collapsible": true,
                 "collapsed": true,
                 "items": [
                   {
                     "type": "doc",
-                    "id": "tutorial-basics/create-a-page"
+                    "id": "Buyer activity/buyer-intent"
                   },
                   {
                     "type": "doc",
-                    "id": "tutorial-basics/create-a-document"
+                    "id": "Buyer activity/leads"
                   },
                   {
                     "type": "doc",
-                    "id": "tutorial-basics/create-a-blog-post"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "tutorial-basics/markdown-features"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "tutorial-basics/deploy-your-site"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "tutorial-basics/congratulations"
+                    "id": "Buyer activity/track_your_prospects"
                   }
                 ],
                 "link": {
                   "type": "generated-index",
                   "description": "5 minutes to learn the most important Docusaurus concepts.",
-                  "slug": "/category/tutorial---basics",
-                  "permalink": "/docs/category/tutorial---basics"
+                  "slug": "/category/buyer-activity",
+                  "permalink": "/docs/category/buyer-activity"
                 }
               },
               {
                 "type": "category",
-                "label": "Tutorial - Extras",
+                "label": "Product Profile",
                 "collapsible": true,
                 "collapsed": true,
                 "items": [
                   {
                     "type": "doc",
-                    "id": "tutorial-extras/manage-docs-versions"
+                    "id": "Product Profile/discussions"
                   },
                   {
                     "type": "doc",
-                    "id": "tutorial-extras/translate-your-site"
+                    "id": "Product Profile/downloads"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Product Profile/ethics_values"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Product Profile/features"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Product Profile/packages_pricing"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Product Profile/product_information"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Product Profile/screenshots"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Product Profile/videos"
                   }
                 ],
                 "link": {
                   "type": "generated-index",
-                  "slug": "/category/tutorial---extras",
-                  "permalink": "/docs/category/tutorial---extras"
+                  "description": "5 minutes to learn the most important Docusaurus concepts.",
+                  "slug": "/category/product-profile",
+                  "permalink": "/docs/category/product-profile"
                 }
+              },
+              {
+                "type": "doc",
+                "id": "Product Suites",
+                "label": "Product Suites"
+              },
+              {
+                "type": "category",
+                "label": "Review Management",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "Review Management/campaign_dashboard"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Review Management/custom_questions"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Review Management/references-from-reviews"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Review Management/review-activity"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Review Management/review_campaigns"
+                  }
+                ],
+                "link": {
+                  "type": "generated-index",
+                  "description": "5 minutes to learn the most important Docusaurus concepts.",
+                  "slug": "/category/review-management",
+                  "permalink": "/docs/category/review-management"
+                }
+              },
+              {
+                "type": "category",
+                "label": "Marketing Content",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "Marketing content/crowd_quotes"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Marketing content/documents"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Marketing content/g2_badges"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Marketing content/reference_pages"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Marketing content/report-library"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Marketing content/widgets"
+                  }
+                ],
+                "link": {
+                  "type": "generated-index",
+                  "description": "5 minutes to learn the most important Docusaurus concepts.",
+                  "slug": "/category/marketing-content",
+                  "permalink": "/docs/category/marketing-content"
+                }
+              },
+              {
+                "type": "category",
+                "label": "Analytics",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "Analytics/competitors"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Analytics/profile-activity"
+                  }
+                ],
+                "link": {
+                  "type": "generated-index",
+                  "description": "5 minutes to learn the most important Docusaurus concepts.",
+                  "slug": "/category/analytics",
+                  "permalink": "/docs/category/analytics"
+                }
+              },
+              {
+                "type": "doc",
+                "id": "notifications",
+                "label": "Notifications"
+              },
+              {
+                "type": "doc",
+                "id": "buyer_engagement_score",
+                "label": "Buyer Engagement score"
+              },
+              {
+                "type": "category",
+                "label": "Webhooks",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "category",
+                    "label": "g2-leads-webhooks",
+                    "collapsible": true,
+                    "collapsed": true,
+                    "items": [
+                      {
+                        "type": "doc",
+                        "id": "Webhooks/g2-leads-webhooks/hubspot_webhook"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "Webhooks/g2-leads-webhooks/salesforce_crm_webhook"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "category",
+                    "label": "in-app-g2-review-prompts",
+                    "collapsible": true,
+                    "collapsed": true,
+                    "items": [
+                      {
+                        "type": "doc",
+                        "id": "Webhooks/in-app-g2-review-prompts/basics_of_in_app_review_prompts"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "Webhooks/in-app-g2-review-prompts/implementation_in_app_g2_review"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "Webhooks/in-app-g2-review-prompts/prompt_guidelines"
+                      }
+                    ]
+                  }
+                ],
+                "link": {
+                  "type": "generated-index",
+                  "description": "5 minutes to learn the most important Docusaurus concepts.",
+                  "slug": "/category/webhooks",
+                  "permalink": "/docs/category/webhooks"
+                }
+              },
+              {
+                "type": "category",
+                "label": "Integrations",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "Integrations/about-g2-integrations"
+                  }
+                ],
+                "link": {
+                  "description": "5 minutes to learn the most important Docusaurus concepts."
+                }
+              },
+              {
+                "type": "doc",
+                "id": "G2 API",
+                "label": "G2 API"
               }
             ]
           }
@@ -347,6 +1131,8 @@
   },
   "docusaurus-plugin-debug": {},
   "docusaurus-theme-classic": {},
+  "docusaurus-lunr-search": {},
+  "docusaurus-theme-live-codeblock": {},
   "docusaurus-bootstrap-plugin": {},
   "docusaurus-mdx-fallback-plugin": {}
 }

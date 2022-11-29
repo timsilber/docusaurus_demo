@@ -1,0 +1,27 @@
+{
+  "unversionedId": "notifications",
+  "id": "notifications",
+  "title": "notifications",
+  "description": "Notifications enables you to take immediate action on expiring landing pages, new reviews, and more by offering personalized updates for your products listed on G2.",
+  "source": "@site/docs/notifications.md",
+  "sourceDirName": ".",
+  "slug": "/notifications",
+  "permalink": "/docs/notifications",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 80,
+  "frontMatter": {
+    "sidebar_label": "Notifications",
+    "sidebar_position": 80
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "profile-activity",
+    "permalink": "/docs/Analytics/profile-activity"
+  },
+  "next": {
+    "title": "Buyer Engagement score",
+    "permalink": "/docs/buyer_engagement_score"
+  }
+}

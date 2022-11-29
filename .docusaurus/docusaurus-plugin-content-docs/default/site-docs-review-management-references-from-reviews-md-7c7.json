@@ -1,0 +1,23 @@
+{
+  "unversionedId": "review-management/references-from-reviews",
+  "id": "review-management/references-from-reviews",
+  "title": "references-from-reviews",
+  "description": "References from Reviews enables you to easily connect with reviewers who agree to be a reference for your product. Use this page to access the contact information for your references to provide to prospects, or to discuss future advertising and promotional opportunities with your references directly.",
+  "source": "@site/docs/review-management/references-from-reviews.md",
+  "sourceDirName": "review-management",
+  "slug": "/review-management/references-from-reviews",
+  "permalink": "/docs/review-management/references-from-reviews",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "custom_questions",
+    "permalink": "/docs/review-management/custom_questions"
+  },
+  "next": {
+    "title": "review-activity",
+    "permalink": "/docs/review-management/review-activity"
+  }
+}

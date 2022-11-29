@@ -1,0 +1,23 @@
+{
+  "unversionedId": "product-profile/videos",
+  "id": "product-profile/videos",
+  "title": "videos",
+  "description": "Metadata_Start",
+  "source": "@site/docs/product-profile/videos.md",
+  "sourceDirName": "product-profile",
+  "slug": "/product-profile/videos",
+  "permalink": "/docs/product-profile/videos",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "screenshots",
+    "permalink": "/docs/product-profile/screenshots"
+  },
+  "next": {
+    "title": "campaign_dashboard",
+    "permalink": "/docs/review-management/campaign_dashboard"
+  }
+}

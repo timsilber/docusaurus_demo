@@ -1,0 +1,23 @@
+{
+  "unversionedId": "my-g2/marketing-content/crowd_quotes",
+  "id": "my-g2/marketing-content/crowd_quotes",
+  "title": "crowd_quotes",
+  "description": "Crowd Quotes provides a convenient way to supply your sales, marketing, and design teams with snippets of your G2 reviews. Use Crowd Quotes to build trust and improve your marketing campaigns by displaying rich-text reviews from real users of your products.",
+  "source": "@site/docs/my-g2/marketing-content/crowd_quotes.md",
+  "sourceDirName": "my-g2/marketing-content",
+  "slug": "/my-g2/marketing-content/crowd_quotes",
+  "permalink": "/docs/my-g2/marketing-content/crowd_quotes",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "buyer_engagement_score",
+    "permalink": "/docs/my-g2/buyer_engagement_score"
+  },
+  "next": {
+    "title": "documents",
+    "permalink": "/docs/my-g2/marketing-content/documents"
+  }
+}

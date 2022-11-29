@@ -1,0 +1,23 @@
+{
+  "unversionedId": "marketing-content/report-library",
+  "id": "marketing-content/report-library",
+  "title": "report-library",
+  "description": "The Report Library page serves as a repository for all your G2 Reports, including GridⓇ Reports, Index Reports, and Compare Reports. Use the Report Library to easily find specific reports to share with individual customers or use as part of marketing campaigns.",
+  "source": "@site/docs/marketing-content/report-library.md",
+  "sourceDirName": "marketing-content",
+  "slug": "/marketing-content/report-library",
+  "permalink": "/docs/marketing-content/report-library",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "reference_pages",
+    "permalink": "/docs/marketing-content/reference_pages"
+  },
+  "next": {
+    "title": "widgets",
+    "permalink": "/docs/marketing-content/widgets"
+  }
+}

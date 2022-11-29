@@ -1,0 +1,23 @@
+{
+  "unversionedId": "Product Profile/videos",
+  "id": "Product Profile/videos",
+  "title": "videos",
+  "description": "Metadata_Start",
+  "source": "@site/docs/Product Profile/videos.md",
+  "sourceDirName": "Product Profile",
+  "slug": "/Product Profile/videos",
+  "permalink": "/docs/Product Profile/videos",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "screenshots",
+    "permalink": "/docs/Product Profile/screenshots"
+  },
+  "next": {
+    "title": "Product Suites",
+    "permalink": "/docs/Product Suites"
+  }
+}

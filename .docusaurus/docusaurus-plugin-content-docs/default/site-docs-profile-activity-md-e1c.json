@@ -1,0 +1,26 @@
+{
+  "unversionedId": "profile-activity",
+  "id": "profile-activity",
+  "title": "profile activity",
+  "description": "my hello page description",
+  "source": "@site/docs/profile-activity.md",
+  "sourceDirName": ".",
+  "slug": "/profile-activity",
+  "permalink": "/docs/profile-activity",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "profile activity",
+    "description": "my hello page description"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "review_campaigns",
+    "permalink": "/docs/my-g2/review-management/review_campaigns"
+  },
+  "next": {
+    "title": "hi",
+    "permalink": "/docs/test/hey"
+  }
+}

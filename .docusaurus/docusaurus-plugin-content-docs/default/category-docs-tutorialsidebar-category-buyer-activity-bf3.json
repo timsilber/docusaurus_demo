@@ -1,0 +1,16 @@
+{
+  "title": "Buyer Activity",
+  "description": "5 minutes to learn the most important Docusaurus concepts.",
+  "slug": "/category/buyer-activity",
+  "permalink": "/docs/category/buyer-activity",
+  "navigation": {
+    "previous": {
+      "title": "Get started with G2",
+      "permalink": "/docs/get-started"
+    },
+    "next": {
+      "title": "buyer-intent",
+      "permalink": "/docs/Buyer activity/buyer-intent"
+    }
+  }
+}

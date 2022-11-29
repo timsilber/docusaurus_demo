@@ -1,0 +1,22 @@
+{
+  "unversionedId": "Integrations/about-g2-integrations",
+  "id": "Integrations/about-g2-integrations",
+  "title": "about-g2-integrations",
+  "description": "{/ 9f9dba51-b4e6-4c79-a27b-31cc5a6683f4 /}",
+  "source": "@site/docs/Integrations/about-g2-integrations.md",
+  "sourceDirName": "Integrations",
+  "slug": "/Integrations/about-g2-integrations",
+  "permalink": "/docs/Integrations/about-g2-integrations",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Integrations"
+  },
+  "next": {
+    "title": "G2 API",
+    "permalink": "/docs/G2 API"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "title": "Webhooks",
+  "description": "5 minutes to learn the most important Docusaurus concepts.",
+  "slug": "/category/webhooks",
+  "permalink": "/docs/category/webhooks",
+  "navigation": {
+    "previous": {
+      "title": "Buyer Engagement score",
+      "permalink": "/docs/buyer_engagement_score"
+    },
+    "next": {
+      "title": "hubspot_webhook",
+      "permalink": "/docs/Webhooks/g2-leads-webhooks/hubspot_webhook"
+    }
+  }
+}

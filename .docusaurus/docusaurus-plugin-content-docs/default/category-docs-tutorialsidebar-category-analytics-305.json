@@ -1,0 +1,16 @@
+{
+  "title": "Analytics",
+  "description": "5 minutes to learn the most important Docusaurus concepts.",
+  "slug": "/category/analytics",
+  "permalink": "/docs/category/analytics",
+  "navigation": {
+    "previous": {
+      "title": "widgets",
+      "permalink": "/docs/Marketing content/widgets"
+    },
+    "next": {
+      "title": "competitors",
+      "permalink": "/docs/Analytics/competitors"
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "Review Management/review-activity",
+  "id": "Review Management/review-activity",
+  "title": "review-activity",
+  "description": "The Review Activity page helps you monitor, analyze, and respond to your product’s G2 reviews directly from my.G2. Review Activity enables you to find reviews and take action, from setting up email notifications to using review filters.",
+  "source": "@site/docs/Review Management/review-activity.md",
+  "sourceDirName": "Review Management",
+  "slug": "/Review Management/review-activity",
+  "permalink": "/docs/Review Management/review-activity",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "references-from-reviews",
+    "permalink": "/docs/Review Management/references-from-reviews"
+  },
+  "next": {
+    "title": "review_campaigns",
+    "permalink": "/docs/Review Management/review_campaigns"
+  }
+}

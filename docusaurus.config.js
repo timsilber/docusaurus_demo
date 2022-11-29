@@ -17,6 +17,7 @@ const config = {
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'G2 org', // Usually your GitHub org/user name.
+  plugins: [require.resolve('docusaurus-lunr-search')],
   projectName: 'docusaurus_demo', // Usually your repo name.
 
   // Even if you don't use internalization, you can use this field to set useful
@@ -48,10 +49,21 @@ const config = {
       }),
     ],
   ],
-
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
+      docs: {
+        sidebar: {
+          hideable: true,
+        },
+      },
+      liveCodeBlock: {
+        /**
+         * The position of the live playground, above or under the editor
+         * Possible values: "top" | "bottom"
+         */
+        playgroundPosition: 'bottom',
+      },
       navbar: {
         title: 'G2 Documentation',
         logo: {
@@ -61,7 +73,7 @@ const config = {
         items: [
           {
             type: 'doc',
-            docId: 'intro',
+            docId: 'get-started',
             position: 'left',
             label: 'Tutorial',
           },
@@ -80,3 +92,4 @@ const config = {
 };
 
 module.exports = config;
+module.exports = {...config, themes: ['@docusaurus/theme-live-codeblock'],}

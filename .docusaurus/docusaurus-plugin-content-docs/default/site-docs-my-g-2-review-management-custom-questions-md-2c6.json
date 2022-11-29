@@ -1,0 +1,23 @@
+{
+  "unversionedId": "my-g2/review-management/custom_questions",
+  "id": "my-g2/review-management/custom_questions",
+  "title": "custom_questions",
+  "description": "{/ 7153591b-a402-4b33-8b41-778ee3961c9a /}",
+  "source": "@site/docs/my-g2/review-management/custom_questions.md",
+  "sourceDirName": "my-g2/review-management",
+  "slug": "/my-g2/review-management/custom_questions",
+  "permalink": "/docs/my-g2/review-management/custom_questions",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "campaign_dashboard",
+    "permalink": "/docs/my-g2/review-management/campaign_dashboard"
+  },
+  "next": {
+    "title": "references-from-reviews",
+    "permalink": "/docs/my-g2/review-management/references-from-reviews"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "test/get-started-with-g2",
+  "id": "test/get-started-with-g2",
+  "title": "get-started-with-g2",
+  "description": "",
+  "source": "@site/docs/test/get-started-with-g2.md",
+  "sourceDirName": "test",
+  "slug": "/test/get-started-with-g2",
+  "permalink": "/docs/test/get-started-with-g2",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "review_campaigns",
+    "permalink": "/docs/review-management/review_campaigns"
+  },
+  "next": {
+    "title": "hi",
+    "permalink": "/docs/test/hey"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "Webhooks/in-app-g2-review-prompts/implementation_in_app_g2_review",
+  "id": "Webhooks/in-app-g2-review-prompts/implementation_in_app_g2_review",
+  "title": "implementation_in_app_g2_review",
+  "description": "{/ 39b27bc3-da76-42f0-9c5e-2dce57bcffdc /}",
+  "source": "@site/docs/Webhooks/in-app-g2-review-prompts/implementation_in_app_g2_review.md",
+  "sourceDirName": "Webhooks/in-app-g2-review-prompts",
+  "slug": "/Webhooks/in-app-g2-review-prompts/implementation_in_app_g2_review",
+  "permalink": "/docs/Webhooks/in-app-g2-review-prompts/implementation_in_app_g2_review",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "basics_of_in_app_review_prompts",
+    "permalink": "/docs/Webhooks/in-app-g2-review-prompts/basics_of_in_app_review_prompts"
+  },
+  "next": {
+    "title": "prompt_guidelines",
+    "permalink": "/docs/Webhooks/in-app-g2-review-prompts/prompt_guidelines"
+  }
+}

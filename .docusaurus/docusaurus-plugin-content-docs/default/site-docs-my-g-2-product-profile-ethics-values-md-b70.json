@@ -1,0 +1,23 @@
+{
+  "unversionedId": "my-g2/product-profile/ethics_values",
+  "id": "my-g2/product-profile/ethics_values",
+  "title": "ethics_values",
+  "description": "Metadata_Start",
+  "source": "@site/docs/my-g2/product-profile/ethics_values.md",
+  "sourceDirName": "my-g2/product-profile",
+  "slug": "/my-g2/product-profile/ethics_values",
+  "permalink": "/docs/my-g2/product-profile/ethics_values",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "downloads",
+    "permalink": "/docs/my-g2/product-profile/downloads"
+  },
+  "next": {
+    "title": "features",
+    "permalink": "/docs/my-g2/product-profile/features"
+  }
+}

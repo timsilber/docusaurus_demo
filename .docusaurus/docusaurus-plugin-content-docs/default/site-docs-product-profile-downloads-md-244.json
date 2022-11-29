@@ -1,0 +1,23 @@
+{
+  "unversionedId": "product-profile/downloads",
+  "id": "product-profile/downloads",
+  "title": "downloads",
+  "description": "## Metadata_Start",
+  "source": "@site/docs/product-profile/downloads.md",
+  "sourceDirName": "product-profile",
+  "slug": "/product-profile/downloads",
+  "permalink": "/docs/product-profile/downloads",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "discussions",
+    "permalink": "/docs/product-profile/discussions"
+  },
+  "next": {
+    "title": "ethics_values",
+    "permalink": "/docs/product-profile/ethics_values"
+  }
+}

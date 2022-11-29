@@ -1,0 +1,23 @@
+{
+  "unversionedId": "marketing-content/documents",
+  "id": "marketing-content/documents",
+  "title": "documents",
+  "description": "The Documents page enables you to track traffic to your G2 Reports, including Compare Reports, GridⓇ Reports, and Index Reports. Reports appear in the Documents page after you purchase a license.",
+  "source": "@site/docs/marketing-content/documents.md",
+  "sourceDirName": "marketing-content",
+  "slug": "/marketing-content/documents",
+  "permalink": "/docs/marketing-content/documents",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "crowd_quotes",
+    "permalink": "/docs/marketing-content/crowd_quotes"
+  },
+  "next": {
+    "title": "g2_badges",
+    "permalink": "/docs/marketing-content/g2_badges"
+  }
+}

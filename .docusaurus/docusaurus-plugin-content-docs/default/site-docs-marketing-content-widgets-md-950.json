@@ -1,0 +1,23 @@
+{
+  "unversionedId": "Marketing content/widgets",
+  "id": "Marketing content/widgets",
+  "title": "widgets",
+  "description": "## Metadata_Start",
+  "source": "@site/docs/Marketing content/widgets.md",
+  "sourceDirName": "Marketing content",
+  "slug": "/Marketing content/widgets",
+  "permalink": "/docs/Marketing content/widgets",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "report-library",
+    "permalink": "/docs/Marketing content/report-library"
+  },
+  "next": {
+    "title": "Analytics",
+    "permalink": "/docs/category/analytics"
+  }
+}

@@ -26,6 +26,16 @@
       "type": "package",
       "name": "@docusaurus/theme-classic",
       "version": "2.2.0"
+    },
+    "docusaurus-lunr-search": {
+      "type": "package",
+      "name": "docusaurus-lunr-search",
+      "version": "2.3.2"
+    },
+    "docusaurus-theme-live-codeblock": {
+      "type": "package",
+      "name": "@docusaurus/theme-live-codeblock",
+      "version": "2.2.0"
     }
   }
 }

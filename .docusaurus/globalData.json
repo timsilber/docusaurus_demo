@@ -1,4 +1,12 @@
 {
+  "docusaurus-lunr-search": {
+    "default": {
+      "fileNames": {
+        "searchDoc": "search-doc-1669690100185.json",
+        "lunrIndex": "lunr-index-1669690100185.json"
+      }
+    }
+  },
   "docusaurus-plugin-content-docs": {
     "default": {
       "path": "/docs",
@@ -8,61 +16,211 @@
           "label": "Next",
           "isLast": true,
           "path": "/docs",
-          "mainDocId": "intro",
+          "mainDocId": "get-started",
           "docs": [
             {
-              "id": "intro",
-              "path": "/docs/intro",
+              "id": "Analytics/competitors",
+              "path": "/docs/Analytics/competitors",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "tutorial-basics/congratulations",
-              "path": "/docs/tutorial-basics/congratulations",
+              "id": "Analytics/profile-activity",
+              "path": "/docs/Analytics/profile-activity",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "tutorial-basics/create-a-blog-post",
-              "path": "/docs/tutorial-basics/create-a-blog-post",
+              "id": "Buyer activity/buyer-intent",
+              "path": "/docs/Buyer activity/buyer-intent",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "tutorial-basics/create-a-document",
-              "path": "/docs/tutorial-basics/create-a-document",
+              "id": "Buyer activity/leads",
+              "path": "/docs/Buyer activity/leads",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "tutorial-basics/create-a-page",
-              "path": "/docs/tutorial-basics/create-a-page",
+              "id": "Buyer activity/track_your_prospects",
+              "path": "/docs/Buyer activity/track_your_prospects",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "tutorial-basics/deploy-your-site",
-              "path": "/docs/tutorial-basics/deploy-your-site",
+              "id": "buyer_engagement_score",
+              "path": "/docs/buyer_engagement_score",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "tutorial-basics/markdown-features",
-              "path": "/docs/tutorial-basics/markdown-features",
+              "id": "G2 API",
+              "path": "/docs/G2 API",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "tutorial-extras/manage-docs-versions",
-              "path": "/docs/tutorial-extras/manage-docs-versions",
+              "id": "get-started",
+              "path": "/docs/get-started",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "tutorial-extras/translate-your-site",
-              "path": "/docs/tutorial-extras/translate-your-site",
+              "id": "Integrations/about-g2-integrations",
+              "path": "/docs/Integrations/about-g2-integrations",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "/category/tutorial---basics",
-              "path": "/docs/category/tutorial---basics",
+              "id": "Marketing content/crowd_quotes",
+              "path": "/docs/Marketing content/crowd_quotes",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "/category/tutorial---extras",
-              "path": "/docs/category/tutorial---extras",
+              "id": "Marketing content/documents",
+              "path": "/docs/Marketing content/documents",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Marketing content/g2_badges",
+              "path": "/docs/Marketing content/g2_badges",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Marketing content/reference_pages",
+              "path": "/docs/Marketing content/reference_pages",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Marketing content/report-library",
+              "path": "/docs/Marketing content/report-library",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Marketing content/widgets",
+              "path": "/docs/Marketing content/widgets",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "notifications",
+              "path": "/docs/notifications",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Product Profile/discussions",
+              "path": "/docs/Product Profile/discussions",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Product Profile/downloads",
+              "path": "/docs/Product Profile/downloads",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Product Profile/ethics_values",
+              "path": "/docs/Product Profile/ethics_values",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Product Profile/features",
+              "path": "/docs/Product Profile/features",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Product Profile/packages_pricing",
+              "path": "/docs/Product Profile/packages_pricing",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Product Profile/product_information",
+              "path": "/docs/Product Profile/product_information",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Product Profile/screenshots",
+              "path": "/docs/Product Profile/screenshots",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Product Profile/videos",
+              "path": "/docs/Product Profile/videos",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Product Suites",
+              "path": "/docs/Product Suites",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Review Management/campaign_dashboard",
+              "path": "/docs/Review Management/campaign_dashboard",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Review Management/custom_questions",
+              "path": "/docs/Review Management/custom_questions",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Review Management/references-from-reviews",
+              "path": "/docs/Review Management/references-from-reviews",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Review Management/review_campaigns",
+              "path": "/docs/Review Management/review_campaigns",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Review Management/review-activity",
+              "path": "/docs/Review Management/review-activity",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Webhooks/g2-leads-webhooks/hubspot_webhook",
+              "path": "/docs/Webhooks/g2-leads-webhooks/hubspot_webhook",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Webhooks/g2-leads-webhooks/salesforce_crm_webhook",
+              "path": "/docs/Webhooks/g2-leads-webhooks/salesforce_crm_webhook",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Webhooks/in-app-g2-review-prompts/basics_of_in_app_review_prompts",
+              "path": "/docs/Webhooks/in-app-g2-review-prompts/basics_of_in_app_review_prompts",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Webhooks/in-app-g2-review-prompts/implementation_in_app_g2_review",
+              "path": "/docs/Webhooks/in-app-g2-review-prompts/implementation_in_app_g2_review",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Webhooks/in-app-g2-review-prompts/prompt_guidelines",
+              "path": "/docs/Webhooks/in-app-g2-review-prompts/prompt_guidelines",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/buyer-activity",
+              "path": "/docs/category/buyer-activity",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/product-profile",
+              "path": "/docs/category/product-profile",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/review-management",
+              "path": "/docs/category/review-management",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/marketing-content",
+              "path": "/docs/category/marketing-content",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/analytics",
+              "path": "/docs/category/analytics",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/webhooks",
+              "path": "/docs/category/webhooks",
               "sidebar": "tutorialSidebar"
             }
           ],
@@ -70,8 +228,8 @@
           "sidebars": {
             "tutorialSidebar": {
               "link": {
-                "path": "/docs/intro",
-                "label": "intro"
+                "path": "/docs/get-started",
+                "label": "Get started with G2"
               }
             }
           }

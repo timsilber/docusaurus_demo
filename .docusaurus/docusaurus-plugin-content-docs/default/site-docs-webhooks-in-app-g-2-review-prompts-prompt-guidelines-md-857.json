@@ -1,0 +1,22 @@
+{
+  "unversionedId": "Webhooks/in-app-g2-review-prompts/prompt_guidelines",
+  "id": "Webhooks/in-app-g2-review-prompts/prompt_guidelines",
+  "title": "prompt_guidelines",
+  "description": "Metadata_Start",
+  "source": "@site/docs/Webhooks/in-app-g2-review-prompts/prompt_guidelines.md",
+  "sourceDirName": "Webhooks/in-app-g2-review-prompts",
+  "slug": "/Webhooks/in-app-g2-review-prompts/prompt_guidelines",
+  "permalink": "/docs/Webhooks/in-app-g2-review-prompts/prompt_guidelines",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "implementation_in_app_g2_review",
+    "permalink": "/docs/Webhooks/in-app-g2-review-prompts/implementation_in_app_g2_review"
+  },
+  "next": {
+    "title": "Integrations"
+  }
+}

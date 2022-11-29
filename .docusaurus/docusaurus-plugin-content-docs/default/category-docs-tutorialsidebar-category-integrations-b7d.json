@@ -1,0 +1,16 @@
+{
+  "title": "Integrations",
+  "description": "5 minutes to learn the most important Docusaurus concepts.",
+  "slug": "/category/integrations",
+  "permalink": "/docs/category/integrations",
+  "navigation": {
+    "previous": {
+      "title": "prompt_guidelines",
+      "permalink": "/docs/Webhooks/in-app-g2-review-prompts/prompt_guidelines"
+    },
+    "next": {
+      "title": "about-g2-integrations",
+      "permalink": "/docs/Integrations/about-g2-integrations"
+    }
+  }
+}

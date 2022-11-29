@@ -1,0 +1,23 @@
+{
+  "unversionedId": "review-management/review_campaigns",
+  "id": "review-management/review_campaigns",
+  "title": "review_campaigns",
+  "description": "{/ 28258a6f-3181-4644-b415-af3f1809e4cb /}",
+  "source": "@site/docs/review-management/review_campaigns.md",
+  "sourceDirName": "review-management",
+  "slug": "/review-management/review_campaigns",
+  "permalink": "/docs/review-management/review_campaigns",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "review-activity",
+    "permalink": "/docs/review-management/review-activity"
+  },
+  "next": {
+    "title": "get-started-with-g2",
+    "permalink": "/docs/test/get-started-with-g2"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "my-g2/product-profile/features",
+  "id": "my-g2/product-profile/features",
+  "title": "features",
+  "description": "Metadata_Start",
+  "source": "@site/docs/my-g2/product-profile/features.md",
+  "sourceDirName": "my-g2/product-profile",
+  "slug": "/my-g2/product-profile/features",
+  "permalink": "/docs/my-g2/product-profile/features",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "ethics_values",
+    "permalink": "/docs/my-g2/product-profile/ethics_values"
+  },
+  "next": {
+    "title": "packages_pricing",
+    "permalink": "/docs/my-g2/product-profile/packages_pricing"
+  }
+}

@@ -12,6 +12,9 @@ export default {
   "onBrokenMarkdownLinks": "warn",
   "favicon": "https://cdn.document360.io/logo/1759d01c-b118-4f31-81f7-e4011071a6d4/75f4e70b59b34b22b3d5ed7d8e5b56c5-g2-seller-solutions.png",
   "organizationName": "G2 org",
+  "plugins": [
+    "/Users/timsilber/repos/docusaurus_demo/node_modules/docusaurus-lunr-search/src/index.js"
+  ],
   "projectName": "docusaurus_demo",
   "i18n": {
     "defaultLocale": "en",
@@ -38,6 +41,16 @@ export default {
     ]
   ],
   "themeConfig": {
+    "docs": {
+      "sidebar": {
+        "hideable": true,
+        "autoCollapseCategories": false
+      },
+      "versionPersistence": "localStorage"
+    },
+    "liveCodeBlock": {
+      "playgroundPosition": "bottom"
+    },
     "navbar": {
       "title": "G2 Documentation",
       "logo": {
@@ -47,7 +60,7 @@ export default {
       "items": [
         {
           "type": "doc",
-          "docId": "intro",
+          "docId": "get-started",
           "position": "left",
           "label": "Tutorial"
         },
@@ -268,27 +281,21 @@ export default {
       "disableSwitch": false,
       "respectPrefersColorScheme": false
     },
-    "docs": {
-      "versionPersistence": "localStorage",
-      "sidebar": {
-        "hideable": false,
-        "autoCollapseCategories": false
-      }
-    },
     "metadata": [],
     "tableOfContents": {
       "minHeadingLevel": 2,
       "maxHeadingLevel": 3
     }
   },
+  "themes": [
+    "@docusaurus/theme-live-codeblock"
+  ],
   "baseUrlIssueBanner": true,
   "onDuplicateRoutes": "warn",
   "staticDirectories": [
     "static"
   ],
   "customFields": {},
-  "plugins": [],
-  "themes": [],
   "scripts": [],
   "headTags": [],
   "stylesheets": [],

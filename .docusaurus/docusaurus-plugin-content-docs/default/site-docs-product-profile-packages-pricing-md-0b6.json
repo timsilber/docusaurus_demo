@@ -1,0 +1,23 @@
+{
+  "unversionedId": "Product Profile/packages_pricing",
+  "id": "Product Profile/packages_pricing",
+  "title": "packages_pricing",
+  "description": "## Metadata_Start",
+  "source": "@site/docs/Product Profile/packages_pricing.md",
+  "sourceDirName": "Product Profile",
+  "slug": "/Product Profile/packages_pricing",
+  "permalink": "/docs/Product Profile/packages_pricing",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "features",
+    "permalink": "/docs/Product Profile/features"
+  },
+  "next": {
+    "title": "product_information",
+    "permalink": "/docs/Product Profile/product_information"
+  }
+}

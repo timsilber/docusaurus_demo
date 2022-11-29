@@ -1,0 +1,23 @@
+{
+  "unversionedId": "Marketing content/reference_pages",
+  "id": "Marketing content/reference_pages",
+  "title": "reference_pages",
+  "description": "Reference Pages provide a simple way to highlight your favorite G2 reviews while crafting a shareable, branded web page that can be customized for your target audience.",
+  "source": "@site/docs/Marketing content/reference_pages.md",
+  "sourceDirName": "Marketing content",
+  "slug": "/Marketing content/reference_pages",
+  "permalink": "/docs/Marketing content/reference_pages",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "g2_badges",
+    "permalink": "/docs/Marketing content/g2_badges"
+  },
+  "next": {
+    "title": "report-library",
+    "permalink": "/docs/Marketing content/report-library"
+  }
+}

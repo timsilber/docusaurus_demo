@@ -1,0 +1,19 @@
+{
+  "unversionedId": "test/hey",
+  "id": "test/hey",
+  "title": "hi",
+  "description": "",
+  "source": "@site/docs/test/hey.md",
+  "sourceDirName": "test",
+  "slug": "/test/hey",
+  "permalink": "/docs/test/hey",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "get-started-with-g2",
+    "permalink": "/docs/test/get-started-with-g2"
+  }
+}

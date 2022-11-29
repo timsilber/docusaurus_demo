@@ -1,0 +1,23 @@
+{
+  "unversionedId": "Analytics/profile-activity",
+  "id": "Analytics/profile-activity",
+  "title": "profile-activity",
+  "description": "The Profile Activity page collects several types of traffic analytics measuring your product’s performance on G2, enabling you to track activity changes over time and compare your traffic to your competitors.",
+  "source": "@site/docs/Analytics/profile-activity.md",
+  "sourceDirName": "Analytics",
+  "slug": "/Analytics/profile-activity",
+  "permalink": "/docs/Analytics/profile-activity",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "competitors",
+    "permalink": "/docs/Analytics/competitors"
+  },
+  "next": {
+    "title": "Notifications",
+    "permalink": "/docs/notifications"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "buyer-activity/track_your_prospects",
+  "id": "buyer-activity/track_your_prospects",
+  "title": "track_your_prospects",
+  "description": "# Track Your Prospects",
+  "source": "@site/docs/buyer-activity/track_your_prospects.md",
+  "sourceDirName": "buyer-activity",
+  "slug": "/buyer-activity/track_your_prospects",
+  "permalink": "/docs/buyer-activity/track_your_prospects",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "leads",
+    "permalink": "/docs/buyer-activity/leads"
+  },
+  "next": {
+    "title": "buyer_engagement_score",
+    "permalink": "/docs/buyer_engagement_score"
+  }
+}

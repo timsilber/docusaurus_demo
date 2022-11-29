@@ -1,0 +1,23 @@
+{
+  "unversionedId": "my-g2/review-management/campaign_dashboard",
+  "id": "my-g2/review-management/campaign_dashboard",
+  "title": "campaign_dashboard",
+  "description": "## Metadata_Start",
+  "source": "@site/docs/my-g2/review-management/campaign_dashboard.md",
+  "sourceDirName": "my-g2/review-management",
+  "slug": "/my-g2/review-management/campaign_dashboard",
+  "permalink": "/docs/my-g2/review-management/campaign_dashboard",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "videos",
+    "permalink": "/docs/my-g2/product-profile/videos"
+  },
+  "next": {
+    "title": "custom_questions",
+    "permalink": "/docs/my-g2/review-management/custom_questions"
+  }
+}

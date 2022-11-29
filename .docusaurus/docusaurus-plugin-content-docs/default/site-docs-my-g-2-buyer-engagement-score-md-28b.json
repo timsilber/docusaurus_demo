@@ -1,0 +1,23 @@
+{
+  "unversionedId": "my-g2/buyer_engagement_score",
+  "id": "my-g2/buyer_engagement_score",
+  "title": "buyer_engagement_score",
+  "description": "The Buyer Engagement score provides recommended tasks to complete to ensure that you are engaging appropriately with potential buyers via G2. The Buyer Engagement score also measures your progress in completing those tasks.",
+  "source": "@site/docs/my-g2/buyer_engagement_score.md",
+  "sourceDirName": "my-g2",
+  "slug": "/my-g2/buyer_engagement_score",
+  "permalink": "/docs/my-g2/buyer_engagement_score",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "track_your_prospects",
+    "permalink": "/docs/my-g2/buyer-activity/track_your_prospects"
+  },
+  "next": {
+    "title": "crowd_quotes",
+    "permalink": "/docs/my-g2/marketing-content/crowd_quotes"
+  }
+}

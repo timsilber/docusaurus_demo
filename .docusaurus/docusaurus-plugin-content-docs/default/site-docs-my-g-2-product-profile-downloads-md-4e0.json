@@ -1,0 +1,23 @@
+{
+  "unversionedId": "my-g2/product-profile/downloads",
+  "id": "my-g2/product-profile/downloads",
+  "title": "downloads",
+  "description": "## Metadata_Start",
+  "source": "@site/docs/my-g2/product-profile/downloads.md",
+  "sourceDirName": "my-g2/product-profile",
+  "slug": "/my-g2/product-profile/downloads",
+  "permalink": "/docs/my-g2/product-profile/downloads",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "discussions",
+    "permalink": "/docs/my-g2/product-profile/discussions"
+  },
+  "next": {
+    "title": "ethics_values",
+    "permalink": "/docs/my-g2/product-profile/ethics_values"
+  }
+}

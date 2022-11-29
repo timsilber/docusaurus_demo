@@ -1,0 +1,23 @@
+{
+  "unversionedId": "my-g2/buyer-activity/track_your_prospects",
+  "id": "my-g2/buyer-activity/track_your_prospects",
+  "title": "track_your_prospects",
+  "description": "# Track Your Prospects",
+  "source": "@site/docs/my-g2/buyer-activity/track_your_prospects.md",
+  "sourceDirName": "my-g2/buyer-activity",
+  "slug": "/my-g2/buyer-activity/track_your_prospects",
+  "permalink": "/docs/my-g2/buyer-activity/track_your_prospects",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "leads",
+    "permalink": "/docs/my-g2/buyer-activity/leads"
+  },
+  "next": {
+    "title": "buyer_engagement_score",
+    "permalink": "/docs/my-g2/buyer_engagement_score"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "my-g2/profile-activity",
+  "id": "my-g2/profile-activity",
+  "title": "profile-activity",
+  "description": "The Profile Activity page collects several types of traffic analytics measuring your product’s performance on G2, enabling you to track activity changes over time and compare your traffic to your competitors.",
+  "source": "@site/docs/my-g2/profile-activity.md",
+  "sourceDirName": "my-g2",
+  "slug": "/my-g2/profile-activity",
+  "permalink": "/docs/my-g2/profile-activity",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Translate your site",
+    "permalink": "/docs/tutorial-extras/translate-your-site"
+  },
+  "next": {
+    "title": "hi",
+    "permalink": "/docs/test/hey"
+  }
+}

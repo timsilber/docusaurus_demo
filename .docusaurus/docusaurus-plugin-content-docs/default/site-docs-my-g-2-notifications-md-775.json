@@ -1,0 +1,23 @@
+{
+  "unversionedId": "my-g2/notifications",
+  "id": "my-g2/notifications",
+  "title": "notifications",
+  "description": "Notifications enables you to take immediate action on expiring landing pages, new reviews, and more by offering personalized updates for your products listed on G2.",
+  "source": "@site/docs/my-g2/notifications.md",
+  "sourceDirName": "my-g2",
+  "slug": "/my-g2/notifications",
+  "permalink": "/docs/my-g2/notifications",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "widgets",
+    "permalink": "/docs/my-g2/marketing-content/widgets"
+  },
+  "next": {
+    "title": "discussions",
+    "permalink": "/docs/my-g2/product-profile/discussions"
+  }
+}
