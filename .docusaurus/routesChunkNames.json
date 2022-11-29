@@ -1,230 +1,187 @@
 {
-  "/__docusaurus/debug-3e3": {
-    "__comp": "__comp---theme-debug-config-23-a-2ff",
-    "__context": {
-      "plugin": "plugin---docusaurus-debug-4-ef-72b"
-    }
-  },
-  "/__docusaurus/debug/config-df8": {
-    "__comp": "__comp---theme-debug-config-23-a-2ff",
-    "__context": {
-      "plugin": "plugin---docusaurus-debug-4-ef-72b"
-    }
-  },
-  "/__docusaurus/debug/content-625": {
-    "__comp": "__comp---theme-debug-contentba-8-ce7",
-    "__context": {
-      "plugin": "plugin---docusaurus-debug-4-ef-72b"
-    },
-    "allContent": "allContent---docusaurus-debug-content-246-9aa"
-  },
-  "/__docusaurus/debug/globalData-526": {
-    "__comp": "__comp---theme-debug-global-dataede-0fa",
-    "__context": {
-      "plugin": "plugin---docusaurus-debug-4-ef-72b"
-    }
-  },
-  "/__docusaurus/debug/metadata-3cb": {
-    "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
-    "__context": {
-      "plugin": "plugin---docusaurus-debug-4-ef-72b"
-    }
-  },
-  "/__docusaurus/debug/registry-265": {
-    "__comp": "__comp---theme-debug-registry-679-501",
-    "__context": {
-      "plugin": "plugin---docusaurus-debug-4-ef-72b"
-    }
-  },
-  "/__docusaurus/debug/routes-934": {
-    "__comp": "__comp---theme-debug-routes-946-699",
-    "__context": {
-      "plugin": "plugin---docusaurus-debug-4-ef-72b"
-    }
-  },
   "/markdown-page-d86": {
-    "__comp": "__comp---theme-mdx-page-1-f-3-b90",
+    "__comp": "1f391b9e",
     "__context": {
-      "plugin": "plugin---markdown-paged-47-c89"
+      "plugin": "d47155f6"
     },
-    "content": "content---markdown-page-393-028"
+    "content": "393be207"
   },
   "/docs-b8b": {
-    "__comp": "__comp---theme-doc-page-1-be-9be",
+    "__comp": "1be78505",
     "__context": {
-      "plugin": "plugin---docs-95-d-a05"
+      "plugin": "95d26ae1"
     },
-    "versionMetadata": "versionMetadata---docs-935-398"
+    "versionMetadata": "935f2afb"
   },
   "/docs/Analytics/competitors-514": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-analytics-competitors-9-f-3-11f"
+    "__comp": "17896441",
+    "content": "9f3c8583"
   },
   "/docs/Analytics/profile-activity-e95": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-analytics-profile-activity-6-bf-d1b"
+    "__comp": "17896441",
+    "content": "6bf1c8bf"
   },
   "/docs/Buyer activity/buyer-intent-234": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-buyer-activity-buyer-intent-439-489"
+    "__comp": "17896441",
+    "content": "439b798e"
   },
   "/docs/Buyer activity/leads-9ff": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-buyer-activity-leads-32-e-455"
+    "__comp": "17896441",
+    "content": "32e15219"
   },
   "/docs/Buyer activity/track_your_prospects-018": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-buyer-activity-track-your-prospectsbc-7-a11"
+    "__comp": "17896441",
+    "content": "bc70ade6"
   },
   "/docs/buyer_engagement_score-628": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-buyer-engagement-score-0-d-0-2f2"
+    "__comp": "17896441",
+    "content": "0d01844a"
   },
   "/docs/category/analytics-806": {
-    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-analyticsfe-1-952"
+    "__comp": "14eb3368",
+    "categoryGeneratedIndex": "fe14751f"
   },
   "/docs/category/buyer-activity-013": {
-    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-buyer-activity-065-40b"
+    "__comp": "14eb3368",
+    "categoryGeneratedIndex": "065e1197"
   },
   "/docs/category/marketing-content-0cb": {
-    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-marketing-content-50-b-04d"
+    "__comp": "14eb3368",
+    "categoryGeneratedIndex": "50bd27e0"
   },
   "/docs/category/product-profile-89a": {
-    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-product-profile-1-ce-ae0"
+    "__comp": "14eb3368",
+    "categoryGeneratedIndex": "1ceeef61"
   },
   "/docs/category/review-management-f81": {
-    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-review-management-61-f-e80"
+    "__comp": "14eb3368",
+    "categoryGeneratedIndex": "61f2c77f"
   },
   "/docs/category/webhooks-15b": {
-    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-webhooks-3-f-3-ac7"
+    "__comp": "14eb3368",
+    "categoryGeneratedIndex": "3f3762fa"
   },
   "/docs/G2 API-e47": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-g-2-api-64-d-ff8"
+    "__comp": "17896441",
+    "content": "64deb0d7"
   },
   "/docs/get-started-807": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-get-started-748-17e"
+    "__comp": "17896441",
+    "content": "7485ae2a"
   },
   "/docs/Integrations/about-g2-integrations-4c4": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-integrations-about-g-2-integrations-9-c-1-288"
+    "__comp": "17896441",
+    "content": "9c1f082c"
   },
   "/docs/Marketing content/crowd_quotes-f32": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-marketing-content-crowd-quotes-526-380"
+    "__comp": "17896441",
+    "content": "526fbf0c"
   },
   "/docs/Marketing content/documents-5da": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-marketing-content-documents-019-65b"
+    "__comp": "17896441",
+    "content": "0191667c"
   },
   "/docs/Marketing content/g2_badges-dea": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-marketing-content-g-2-badges-263-3fe"
+    "__comp": "17896441",
+    "content": "263cf4ed"
   },
   "/docs/Marketing content/reference_pages-41e": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-marketing-content-reference-pagesddd-1f3"
+    "__comp": "17896441",
+    "content": "ddd2c31a"
   },
   "/docs/Marketing content/report-library-f9f": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-marketing-content-report-librarya-21-cb4"
+    "__comp": "17896441",
+    "content": "a21db57d"
   },
   "/docs/Marketing content/widgets-203": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-marketing-content-widgets-950-412"
+    "__comp": "17896441",
+    "content": "950c0df2"
   },
   "/docs/notifications-00b": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-notifications-21-a-f2e"
+    "__comp": "17896441",
+    "content": "21a49e2b"
   },
   "/docs/Product Profile/discussions-ea8": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-product-profile-discussionsa-42-1ea"
+    "__comp": "17896441",
+    "content": "a42c6fa7"
   },
   "/docs/Product Profile/downloads-827": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-product-profile-downloads-435-d55"
+    "__comp": "17896441",
+    "content": "435ca60e"
   },
   "/docs/Product Profile/ethics_values-38b": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-product-profile-ethics-values-2-f-8-a87"
+    "__comp": "17896441",
+    "content": "2f8fc297"
   },
   "/docs/Product Profile/features-f99": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-product-profile-features-0-e-7-b00"
+    "__comp": "17896441",
+    "content": "0e794439"
   },
   "/docs/Product Profile/packages_pricing-73c": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-product-profile-packages-pricing-0-b-6-394"
+    "__comp": "17896441",
+    "content": "0b6b6a1e"
   },
   "/docs/Product Profile/product_information-fd1": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-product-profile-product-informationebd-269"
+    "__comp": "17896441",
+    "content": "ebd712d0"
   },
   "/docs/Product Profile/screenshots-357": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-product-profile-screenshotsa-47-d9d"
+    "__comp": "17896441",
+    "content": "a470dff1"
   },
   "/docs/Product Profile/videos-04a": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-product-profile-videos-3-c-1-6ea"
+    "__comp": "17896441",
+    "content": "3c1e251f"
   },
   "/docs/Product Suites-4cf": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-product-suites-409-8ee"
+    "__comp": "17896441",
+    "content": "409f4afe"
   },
   "/docs/Review Management/campaign_dashboard-ad7": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-review-management-campaign-dashboard-0-b-4-a1b"
+    "__comp": "17896441",
+    "content": "0b443829"
   },
   "/docs/Review Management/custom_questions-4cd": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-review-management-custom-questions-9-d-2-ba8"
+    "__comp": "17896441",
+    "content": "9d292253"
   },
   "/docs/Review Management/references-from-reviews-0b4": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-review-management-references-from-reviews-9-c-2-13c"
+    "__comp": "17896441",
+    "content": "9c295bff"
   },
   "/docs/Review Management/review_campaigns-56b": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-review-management-review-campaigns-27-b-159"
+    "__comp": "17896441",
+    "content": "27bed5a6"
   },
   "/docs/Review Management/review-activity-d5b": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-review-management-review-activityac-4-6e0"
+    "__comp": "17896441",
+    "content": "ac4fce41"
   },
   "/docs/Webhooks/g2-leads-webhooks/hubspot_webhook-715": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-webhooks-g-2-leads-webhooks-hubspot-webhooka-2-d-6d4"
+    "__comp": "17896441",
+    "content": "a2df3d29"
   },
   "/docs/Webhooks/g2-leads-webhooks/salesforce_crm_webhook-542": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-webhooks-g-2-leads-webhooks-salesforce-crm-webhookf-28-c9a"
+    "__comp": "17896441",
+    "content": "f28926f6"
   },
   "/docs/Webhooks/in-app-g2-review-prompts/basics_of_in_app_review_prompts-066": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-webhooks-in-app-g-2-review-prompts-basics-of-in-app-review-prompts-4-dc-4f5"
+    "__comp": "17896441",
+    "content": "4dcf8624"
   },
   "/docs/Webhooks/in-app-g2-review-prompts/implementation_in_app_g2_review-978": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-webhooks-in-app-g-2-review-prompts-implementation-in-app-g-2-review-5-fd-6c6"
+    "__comp": "17896441",
+    "content": "5fdd3561"
   },
   "/docs/Webhooks/in-app-g2-review-prompts/prompt_guidelines-811": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-webhooks-in-app-g-2-review-prompts-prompt-guidelines-857-649"
+    "__comp": "17896441",
+    "content": "857a5134"
   },
   "/-dbd": {
-    "__comp": "__comp---site-src-pages-index-jsc-4-f-f99",
+    "__comp": "c4f5d8e4",
     "__context": {
-      "plugin": "plugin---markdown-paged-47-c89"
+      "plugin": "d47155f6"
     },
-    "config": "config---5-e-9-4f3"
+    "config": "5e9f5e1a"
   }
 }
